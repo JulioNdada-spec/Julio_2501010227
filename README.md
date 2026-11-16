@@ -1,10 +1,15 @@
 # AKUISISI DATA CAFE & RESTAURANT DI KOTA DENPASAR MENGGUNAKAN OPENSTREETMAP
 
 Nama: Maryo Julio Rusbugowa Ndada
+
 NIM: 2501010227
+
 Mata Kuliah: Akuisisi dan Manajemen Data - BIFP-243
+
 Program Studi: Teknik Informatika - MDA
+
 Semester / Kelas: 3 / F
+
 Dosen Pengampu: Dr. I Gede Totok Suryawan, S.Kom., M.T.
 
 ## Tujuan
