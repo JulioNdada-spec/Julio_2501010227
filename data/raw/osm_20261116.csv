@@ -1,0 +1,978 @@
+osm_id,name,amenity,cuisine,addr_street,addr_suburb,phone,website,opening_hours,latitude,longitude
+317212141,Samudra Cafe,cafe,,,,,,,-8.7161407,115.1685555
+469219409,Planet Hollywood,restaurant,,,,,,,-8.7232448,115.1822567
+597860496,Kori,restaurant,regional,,,,,,-8.7172657,115.1728499
+603095835,Warung Ibu Dewi,restaurant,,,,,,,-8.6129421,115.2470729
+610372854,Kopi Bali House,restaurant,,Jalan Bypass Ngurah Rai,,+62 361 270990,,,-8.7044871,115.2499491
+757107829,Poppies Bali,restaurant,indonesian,,,,,,-8.7215036,115.1747012
+757107844,Bamboo Corner,restaurant,asian,,,,,,-8.7210782,115.1738422
+757107873,Pizza Hut,restaurant,pizza,"Hotel Mercure No. 10, Jl. Raya Kuta",,,,Mo-Su 10:00-23:00,-8.7211175,115.1698616
+757107886,Kopi Pot,cafe,,Jalan Raya Legian,,,,Mo-Su 08:00-24:00,-8.7150807,115.1736599
+757372567,Mama's German Restaurant,restaurant,international,Jalan Legian,,+62 361 761151,https://www.bali-mamas.com/,24/7,-8.712049,115.1728634
+757372611,Aromas Cafe,restaurant,,,,,,,-8.7112801,115.1725587
+948022050,Black Canyon,cafe,coffee_shop,,,,,,-8.7118087,115.1728092
+948022283,New York,restaurant,,,,,,,-8.7283969,115.1671214
+948022490,Solaria,restaurant,indonesian,Jalan Kartika Plaza,,+62 361 769758,https://www.solaria.com/,,-8.7276462,115.1677167
+949977504,Tempo Doeloe,restaurant,indonesian,Sunset Road,,+62 361 9196868,https://www.ibcgroup.co.id/,,-8.7179082,115.1852708
+949987493,Raw,restaurant,pizza,,,,,,-8.7172471,115.1847898
+960118362,The Woolshed,restaurant,international,,,,,,-8.7129279,115.1718584
+960118939,Ban Bay Dinner,restaurant,,,,,,,-8.7131989,115.171964
+964758853,Sushi Tei,restaurant,japanese,Jalan Sunset Road,,+62 361 8496496,sushitei.co.id,11:00-23:00,-8.7092512,115.1846513
+964996982,Nasi Bali,restaurant,,,,,,,-8.7135605,115.1732759
+965005626,Joker's Grillhouse,restaurant,,,,,,,-8.7136818,115.1732854
+965110115,Xetupat,restaurant,,,,,,,-8.7146337,115.173814
+965114232,Heaven,restaurant,,Jalan Raya Legian,,,,24/7,-8.7151745,115.1739165
+965127688,Simpang Cafe,restaurant,,Jalan Raya Legian,,,,,-8.715578,115.1736912
+965146029,Masakan Padang,restaurant,,,,,,,-8.7163534,115.174269
+965178780,Surya Candra,restaurant,seafood,,,,,,-8.7185772,115.174608
+965180876,Mini,restaurant,indonesian,,,,,,-8.7189267,115.1746851
+965189648,Prawita,restaurant,,,,,,,-8.7193851,115.1748038
+965826243,Gerang Asem,restaurant,seafood,,,,,,-8.7242813,115.1695616
+965826244,Alit,restaurant,,,,,,,-8.7242374,115.1696452
+965826245,Bu Sumiatun,restaurant,,,,,,,-8.7242406,115.1696824
+965826246,Bu Muntiani,restaurant,,,,,,,-8.7242454,115.1697199
+965826247,Beten Ketapang,restaurant,,,,,,,-8.7242915,115.1697189
+965826248,Sate Madura,restaurant,,,,,,,-8.7243272,115.1697159
+965826294,Bu Eko,restaurant,,,,,,,-8.7243589,115.1697183
+965826380,Bu Dody,restaurant,,,,,,,-8.7243923,115.16971
+965826450,Pak Iwan,restaurant,,,,,,,-8.7244266,115.1696987
+965826535,Bu Hidayat,restaurant,,,,,,,-8.724459,115.1696971
+965826616,Bu Evi,restaurant,,,,,,,-8.7244966,115.1696916
+965826756,Enak II,restaurant,,,,,,,-8.7245736,115.1696832
+965826823,Bu Tini,restaurant,,,,,,,-8.7244277,115.1696148
+965826881,Mas Tohir,restaurant,,,,,,,-8.7244665,115.1696109
+965896770,The Coffee Bean,cafe,,,,,,,-8.7232424,115.1714163
+965896870,Dulang Kafe,cafe,indonesian,,,,,,-8.7234439,115.1714601
+965899315,Starbucks,cafe,coffee_shop,,,,,,-8.7223589,115.1707919
+1257854728,Warung 69,restaurant,,,,,,,-8.7168735,115.1722687
+1374655392,Boardwalk Restaurant,restaurant,,,,,,,-8.726915,115.1679041
+1375404875,Black Canyon,cafe,coffee_shop,,,,,,-8.728053,115.1674649
+1408180744,Bali Buda Kerobokan,restaurant,international,Jalan Raya Anyar,,+62 811-3831-1977,https://www.balibuda.com/,Mo-Su 07:00-21:30,-8.6485976,115.1616051
+1512980487,The Mini Restaurant,restaurant,,,,,,,-8.7093752,115.169415
+1611322320,Queen's Tandoor - Seminyak,restaurant,indian,Jl Raya Seminyak,,+62 361 732770,https://www.queenstandoor.com/,12:00-00:00,-8.6891855,115.1673317
+1726092002,The Corner House,cafe,pizza;sandwich;seafood;pasta;salad;dessert;international;regional;coffee_shop,Jalan Kayu Aya,,+62 36-1730276,https://cornerhousebali.com/,,-8.6833913,115.1643102
+1726092162,Bale Bali,restaurant,,,,,,,-8.6890169,115.1700092
+1726093331,Sardine,restaurant,,,,,,,-8.6711565,115.1626278
+1750379633,Zanzibar Restaurant,restaurant,,,,,,,-8.6983192,115.1624731
+1750379862,Blue Ocean Restaurant,restaurant,,,,,,,-8.6989703,115.1629414
+1750381235,Sip Restaurant & Wine Bar,restaurant,,,,,,,-8.69378,115.1683376
+1750394535,Sarong Restaurant,restaurant,,,,,,,-8.6770817,115.1546454
+1751864767,Made's Warung,restaurant,regional;indonesian,Jalan Raya Seminyak,,+62 361 732130,,,-8.689645,115.1677666
+1751872008,La Sal Restaurant,restaurant,,,,,,,-8.6896783,115.1647161
+1751873254,Pizza Club,restaurant,,,,,,,-8.6841176,115.1590473
+1751873270,Cafe Bali,restaurant,,,,,,,-8.6840734,115.1600515
+1751874349,Bali Catering company,restaurant,,,,,,,-8.6808382,115.1525572
+1752026146,Kunis Restaurant,restaurant,japanese,,,,,,-8.6840212,115.1614663
+1752028452,Zucchini cafe,cafe,,,,,,,-8.6837234,115.1635606
+1817538553,Grocer & Grind,restaurant,,,,,,,-8.6826549,115.1576159
+1817538556,Mama San Bali,restaurant,asian,Raya Kerobokan,,+62 812-3634-3386,https://mamasanbali.com/,,-8.682139,115.1646515
+1817545167,Sate Bali,restaurant,,,,+62 361 736734,,,-8.6859467,115.1566149
+1822947575,Lanai Restaurant,restaurant,international,,,,,,-8.6985331,115.1625665
+1946702149,Warung Bamboo,restaurant,regional,,,,,,-8.7001346,115.1685217
+2113370664,Warung Santai,restaurant,asian,,,,,,-8.7377141,115.1730547
+2113370924,Warung Pojok,restaurant,,,,,,,-8.737852,115.1733176
+2179200506,Bali La Monde,restaurant,,Jalan Padma Utara,,+62 361 756819,http://lamonderestaurant.com/,,-8.7010558,115.1662282
+2179207695,Gula Gula,restaurant,,Jalan Padma Utara,,,,,-8.7008649,115.1661802
+2206296704,Densiko Masakan Padang,restaurant,regional;Padang;Indonesian,,,,,,-8.7328434,115.1710898
+2207665522,Budiani Restaurant,restaurant,,Jl. Bedugul,,,,,-8.6953903,115.2271656
+2209297668,Internet Sartika,cafe,,"Jalan Bedugul Sidakarya, Denpasar - Bali",,,http://www.sartika.com/,,-8.6956026,115.2269322
+2222709192,Pizza Hut,restaurant,pizza,,,,,,-8.6359923,115.218123
+2222717568,J.Co Donuts,cafe,,,,,,,-8.6364043,115.2145279
+2276393816,Warung Taulan,restaurant,international,,,,,,-8.6632682,115.1700941
+2276394539,Warung De Daun,restaurant,japanese,,,,,,-8.6641977,115.1702499
+2279273093,Pondok Udang,restaurant,asian,,,,,,-8.6997435,115.1832819
+2295550591,Warung Hotei,restaurant,vietnamese,,,,,,-8.6686151,115.1621531
+2357405745,Rosso Vivo Dine & Lounge,restaurant,,Jalan Pantai Kuta,,+62 361 751961,https://kutaseaviewhotel.com/,,-8.7192229,115.1692649
+2406685219,Wartung Seien Anyar - grilled Fish,restaurant,,,,,,,-8.7348617,115.1699031
+2447270700,Chat,cafe,international,,,,,,-8.6892803,115.1719939
+2452596008,Starbucks,cafe,coffee_shop,Jalan Raya Legian,,,,,-8.714021,115.173636
+2482416886,Ayam Betutu Rama,restaurant,,,,,,,-8.7310414,115.1771665
+2482417332,Pizza Hut,restaurant,pizza,,,,,,-8.7282592,115.1688597
+2483312799,Warung Yogya,restaurant,,,,,,,-8.7048897,115.1683688
+2498044931,KSD,restaurant,,,,,,,-8.6945817,115.2380308
+2498044932,Waroeng SS,restaurant,,,,,https://www.waroengss.com/,,-8.6843056,115.230584
+2534967459,El toro,restaurant,chinese;indonesian,Jalan Wana Segara,,,,"Mo-Sa 00:00-01:00,12:00-24:00; Su 00:00-01:00,14:00-24:00",-8.7372851,115.1661158
+2618220842,Tendaku,restaurant,Ayam_bakar,,,,,,-8.67734,115.2305475
+2659018405,Il Cielo Ristorante Pizzeria,restaurant,italian,,,,,,-8.7321805,115.167582
+2748243986,Bobby's,restaurant,,,,,,11:00-17:30,-8.669183,115.166907
+2847509433,Mano Seaside Cafe,restaurant,,,,,,,-8.6817386,115.1514633
+2896384839,Warung Malang,restaurant,regional;chinese;seafood,Jalan Pattimura,,+62 36-1758638,,Mo-Su 11:00-23:30,-8.7117902,115.1768426
+2922887573,Melati View Hotel,cafe,,,,,,,-8.7360663,115.1676117
+2922987591,Warung Totemo,restaurant,,,,,,,-8.7125764,115.1710358
+2924588118,The Smiling Frog,restaurant,,,,,,,-8.712499,115.1714538
+2927493632,De Bali,cafe,,,,,,,-8.7372263,115.1667327
+2952182883,Sembilan,restaurant,,,,,,,-8.7091333,115.1675705
+2997091931,KZU Sunset,restaurant,fusion,,,,,,-8.6824466,115.1654188
+3066504239,La Plancha Beach Bar & Restaurant,restaurant,spanish,Jalan Mesari Beach,,+62 878-6141-6310,,,-8.6945935,115.159758
+3176175065,Ayam Goreng Kalasan,restaurant,regional,Cok Agung Tresna,,,,Mo-Su 09:00-22:00,-8.6667631,115.2297178
+3176175066,Ayam Goreng Prambanan,restaurant,regional,Cok Agung Tresna,,,,Mo-Su 09:00-22:00,-8.6667953,115.2298967
+3182514121,Starbucks,cafe,coffee_shop,Jalan Teuku Umar,,,,,-8.6785854,115.2053937
+3184156262,MM Juice,restaurant,regional,Jalan Teuku Umar,,,,,-8.6778492,115.2052895
+3188105235,NAV Karaoke,cafe,regional,Jalan Teuku Umar,,+62 361 221721,https://nav.co.id/,,-8.6688732,115.2131561
+3188106279,Chatime,cafe,bubble_tea,Jalan Teuku Umar,,,,,-8.669183,115.2138274
+3207441966,Mie Goreng Makassar,restaurant,regional,Jalan Teuku Umar,,,,Mo-Su 08:00-21:30,-8.675481,115.2075205
+3238710242,Tanjung Pinang,restaurant,chinese,,,,,,-8.7326845,115.177467
+3251556077,Diponegoro Dimsum,restaurant,chinese,Jalan Diponegoro,,,,,-8.6758446,115.2155038
+3278194240,CFC,restaurant,chicken,Jalan Diponegoro,,,,Mo-Su 09:00-22:00,-8.6657956,115.2157625
+3278222028,Ayam Campus,restaurant,american,Jalan Diponegoro,,,,,-8.6659845,115.2147267
+3285647957,Kedai Kelle,restaurant,regional,Tukad Musi,,,,"Mo 15:00-00:00, Tu-Su 10:00-00:00",-8.6738109,115.2323871
+3292237942,Fresco Sports Cafe & Grill,cafe,,Jalan Noja,,,,,-8.6372979,115.2357792
+3311502198,Lucky Day Restaurant,restaurant,,,,,,,-8.6913344,115.1639926
+3394721385,Kopi Langit Rooftop Bar&Restaurant,restaurant,international,Jl. Umalas II No.83,,,www.umalasresidence.com,,-8.6672709,115.155859
+3508005993,Tiflis,restaurant,georgian,jl. Umalas II,,,https://tiflisbali.com/,,-8.667708,115.159076
+3508081293,Someplace Else,cafe,coffee_shop,,,,,,-8.665738,115.160022
+3647007635,Starbucks,cafe,coffee_shop,Jalan Bypass Ngurah Rai,,,https://starbucks.co.id/,,-8.7237554,115.1840687
+3647007636,Starbucks,cafe,coffee_shop,Jl. Sunset Road,,+62 21 5746501,,09:00-23:00,-8.7001879,115.1778656
+3647204883,Starbucks,cafe,coffee_shop,,,,,,-8.7284393,115.1686584
+3648827339,Starbucks,cafe,coffee_shop,,,,,,-8.7350693,115.1669819
+3671122853,Roppan,restaurant,japanese,Jalan Teuku Umar,,,,,-8.6787477,115.205304
+3675159810,Vapor Juice Bar,cafe,regional,Tantular Barat,,,,,-8.6700227,115.2233179
+3675164692,Caffetory,cafe,regional,Jalan Hayam Wuruk,,,,,-8.6595271,115.2393221
+3675164743,Bendega,restaurant,regional,Cok Agung Tresna,,,,,-8.6667669,115.2280175
+3676093466,Starbucks,cafe,coffee_shop,,,,,,-8.7173091,115.1689148
+3676093467,The Coffee Bean & Tea Leaf,cafe,coffee_shop,,,,,,-8.7173928,115.1689483
+3676093472,Turtle Restaurant & Bar,restaurant,,,,,,,-8.7174534,115.1738675
+3718514986,Yogi's Paradise & Grill,restaurant,,Jalan Legian,,+62 813-3827-6781,,,-8.7060216,115.1713966
+3729596372,Revolver Espresso,cafe,coffee_shop,Jalan Kayu Aya,,+62 851 0088 4968,https://www.revolverespresso.com/,,-8.6844476,115.1579659
+3737037449,Sisterfields - Seminyak,restaurant,,Jl. Kayu Cendana,,+62 361 738454,https://www.sisterfieldsbali.com/,,-8.6829537,115.1575647
+3749224235,Sate Babi Melati,restaurant,regional,Jalan Diponegoro,,,,,-8.6606967,115.2149521
+3750087321,Warung Sehat,restaurant,healthy_food,Letda Made Putra,,,,10:00-21:00,-8.6618823,115.2189423
+3753125100,tenget.net,cafe,,,,,,24/7,-8.6742508,115.1571404
+3756627744,Warung Kopi Bali 63,restaurant,regional,Jalan Veteran,,,,,-8.6501976,115.2176225
+3758642908,Kedai Nasi Uduk & Mie Bandung,restaurant,regional,Jalan Teuku Umar,,,,,-8.6810994,115.1998572
+3766737858,Pro Surf School Bali,restaurant,,,,,,,-8.7117889,115.1675043
+3786009233,Bakso Solo ABG,restaurant,regional,Jalan Hayam Wuruk,,,,,-8.6567325,115.2381112
+3786009463,Warung Ice Cream & Gelato,cafe,ice_cream,Jalan WR Supratman,,,,,-8.6488051,115.2300852
+3805220649,Siang Malam (Masakan Padang),restaurant,asian;regional,Jalan Imam Bonjol,,+62 813-3752-9223,https://rmsiangmalam.com/,,-8.6820618,115.1966734
+3842213557,Sa Café,restaurant,,,,,,,-8.7367476,115.164406
+3846419225,'Lik Gondo,cafe,ice_cream,Jalan Bypass Gatot Subroto,,,,,-8.6358657,115.2162335
+3846419251,Warung 99,restaurant,regional,Jalan Bypass Gatot Subroto,,,,,-8.6358255,115.2166557
+3846419315,Bakmi Naga,restaurant,regional,Jalan Bypass Gatot Subroto,,,,,-8.6360057,115.2177074
+3846419316,Djambow Martabak,restaurant,regional,Jalan Bypass Gatot Subroto,,,,,-8.6360017,115.2178009
+3848668266,Bakmi Pancoran,restaurant,regional,Jalan Bypass Gatot Subroto,,,,,-8.6363711,115.2384994
+3912876653,La Mexicana,restaurant,tex-mex,,,,,Tu-Su 16:00-22:00,-8.6437142,115.1573946
+3948409495,Bla Bla,restaurant,german,,,,,,-8.7063947,115.1726169
+3955851307,Ayam Geprek Depan Campus,restaurant,regional,Jl. P.B. Sudirman,,,,,-8.6747351,115.2175812
+3955851308,Helo Cafe,cafe,regional,Jl. P.B. Sudirman,,,,,-8.6747732,115.2175658
+3955851338,Kedai Anyar,cafe,regional,Jl. P.B. Sudirman,,,,,-8.6745629,115.2176538
+3955851340,Bakso & Mie Ayam Surabaya,restaurant,regional,Jl. P.B. Sudirman,,,,,-8.6744396,115.2176564
+3964509657,Kedai Noni,cafe,,Jalan Gunung Agung,,+62 812-4669-494,www.kedainoni.weebly.com,,-8.6508667,115.1892354
+3973103860,Uno Terang Bulan,restaurant,regional,Jalan Waturenggong,,,,Mo-Su 16:00-22:00,-8.6774542,115.218008
+4038192599,Warung Chef Bagus,restaurant,,Jalan Bakungsari,,,,,-8.7246149,115.1741761
+4062938088,Warung Indonesia,restaurant,indonesian;regional,,,,,,-8.7178472,115.1737826
+4092034524,Warung Satria,restaurant,,,,,,,-8.6332275,115.1978374
+4127536602,Warung Bunana,restaurant,,,,,,,-8.7044304,115.2475663
+4157285065,Martabak Holland,restaurant,regional,Jalan Teuku Umar,,,,,-8.681167,115.199214
+4157285066,Bakwan Teuku Umar,restaurant,regional,Jalan Teuku Umar,,,,,-8.681159,115.1992432
+4171856852,Nasi Guling Rebo Manis,restaurant,regional,Jalan Raya Sesetan,,,,,-8.6793646,115.2149518
+4171857222,Ayam Tango,restaurant,regional,Jalan Raya Sesetan,,,,Mo-Fr 13:00-23:00; Sa 15:00-23:00; Su off,-8.6793513,115.2152795
+4172481101,Warung Pak Tedja,restaurant,indonesian,,,,,,-8.6999981,115.1809923
+4172481102,Warung Liku,restaurant,indonesian,,,,,,-8.7000076,115.1811068
+4172537789,Doi Soi,restaurant,,,,,,,-8.7099481,115.1721542
+4175001089,B9B Beach Bar and Restaurant,restaurant,,Jalan Double Six,,+62 36-1732154,,,-8.6972693,115.1616893
+4175001189,The Sand,restaurant,,,,,,,-8.6970253,115.1615014
+4175047689,Pod Coffee,cafe,,,,,,,-8.7446473,115.1624802
+4176014202,Mie Kober,restaurant,,Letda Tantular,,,,Mo-Su 15:00-23:00,-8.6682275,115.2217095
+4177452336,Gardin Bistro & Patisserie Bali,restaurant,,Jalan Petitenget,,+62 36-18499799,,,-8.676481,115.1556982
+4177456222,Jamie Oliver Kitchen,restaurant,italian,Jalan Pantai Kuta,,+62 36-1762118,,,-8.7225412,115.1708006
+4177481705,Giant Pizza,restaurant,,Jl. Satelit No.50,,,,,-8.6806052,115.2120444
+4177594481,Hakata Ikkousha Ramen,restaurant,,Jalan Sunset Road,,+62 36-18947019,,,-8.7053695,115.1818248
+4177605689,Hard Rock Cafe,restaurant,american,Jalan Pantai Kuta,,+62 36-1755661,,,-8.7218791,115.1700336
+4177718444,Holycow Steakhouse By Chef Afit Bali,restaurant,,Jl. Dewi Sri,,+62 36-1766149,,,-8.7050344,115.1769678
+4177719962,Ayam Betutu Khas Gilimanuk Tuban,restaurant,regional,Jalan Raya Tuban,,+62 36-1757535,,,-8.740667,115.1786894
+4177724234,Ayam Tulang Lunak Malioboro,restaurant,regional,Jalan Raya Kediri,,+62 36-1759192,,,-8.7382961,115.1706863
+4177762491,Warung Babi Guling Pak Malen,restaurant,,Jalan Sunset Road,,+62 851-0045-2968,https://www.instagram.com/babi_guling_pak_malen/,Mo-Su 08:00-19:00,-8.6847967,115.1690765
+4177773889,Bakmie MG Express Djakarta,restaurant,,Jl. Dewi Sri IV,,+62 36-13700158,,,-8.7013217,115.1766139
+4177775289,Bakso Bandung,restaurant,,Jl. Gelogor Carik,,+62 852-3823-2799,,,-8.7040896,115.1902622
+4177775378,Bakso Lapangan Tembak Senayan,restaurant,,Jalan Raya Puputan,,+62 36-1225688,,,-8.6733475,115.2339389
+4177802014,Bale Udang Mang Engking,restaurant,,Jalan Nakula,,+62 36-13700660,,,-8.6996413,115.182641
+4177824596,Restaurant Bali Deli,restaurant,,Jl. Kunti,,,,,-8.688591,115.1704289
+4177834510,Republik 45,restaurant,,Jalan Raya Kerobokan,,+62 878-8866-1945,republik45.com,,-8.6784654,115.1644271
+4177894684,Ingka Restaurant Bali,restaurant,,Jl. Mertanadi,,+62 36-1735219,,,-8.6764979,115.1672732
+4177906569,Krishna Wisata Kuliner,restaurant,regional,Jalan Raya Tuban,,+62 361 768077,https://krisnabali.co.id/,,-8.7417364,115.1791507
+4177936525,Bebek Tepi Sawah,restaurant,regional,"Jalan Raya Tuban, Krisna Wisata Kuliner,",,+62 36-1767251,,,-8.7419274,115.179168
+4178043239,Laota,restaurant,chinese,Sunset Road,,+62 361 8947490,,,-8.7029192,115.1807658
+4178048714,Rumours Restaurant,restaurant,,Jl. Kayu Aya,,+62 361 738720,https://balinesia.co.id/,,-8.6840921,115.160318
+4178138119,Sate Babi Bawah Pohon,restaurant,,Jl. Patih Jelantik,,+62 819-9905-3032,,"Mo-Su,PH 08:00-18:00",-8.7098357,115.1760417
+4178199383,Livingstone,cafe,,Jelong Petitenget,,+62 361 4735949,https://www.livingstonebakery.com/,,-8.6718742,115.1614746
+4178397119,Sambel Coli (Cobek Bali),restaurant,,Jalan Tukad Yeh Aya,,,,Mo-Su 11:00-01:00,-8.6773944,115.234843
+4179897656,Chicken Run,restaurant,,Jl. Sunset Road,,,,,-8.6894158,115.1720468
+4179930357,Made's Warung,restaurant,regional;indonesian,Jalan Pantai Kuta,,+62 361 755297,,Mo-Su 09:00-00:00,-8.7223517,115.1747948
+4179932896,Shisha Cafe,cafe,,Jl. Patih Jelantik,,+62 361 762292,https://shisha.co.id/,,-8.7098711,115.1755466
+4179994729,Warung d'Roemah,restaurant,,Jl. Merta Agung,,+62 812-3999-4365,,,-8.6650507,115.168013
+4180000630,D'Cost Sunset Road,restaurant,,Jl. Sunset Road,,,,,-8.7048832,115.180613
+4180069415,Solaria,restaurant,indonesian,Jl. Asia Citra,,,,,-8.7425399,115.1637033
+4180087003,Soto Ceker Koala,restaurant,,Jalan Raya Kuta,,,,,-8.7231518,115.1766136
+4180098670,Dijon Cafe Bali,cafe,,Jalan Setiabudi,,+62 36-1759640,,,-8.7205439,115.1825799
+4180105135,Dim Sum Inc,restaurant,,Jl. Dewi Sri,,+62 36-18947096,,,-8.7002566,115.1775892
+4180123975,DOMBA COFFEE FACTORY,cafe,,Jalan Mertanadi II,,+62 851-0042-1164,,,-8.7112673,115.1845107
+4180138890,RM. ACC Minang,restaurant,,Jalan Raya Tuban,,+62 361 755568,,,-8.7441087,115.1791984
+4180232241,Mie Kober Renon,restaurant,noodle,Letda Tantular,,,,,-8.668929,115.2214922
+4180310491,Starbucks,cafe,coffee_shop,Jl. Gusti Ngurah Rai,,,,,-8.7443916,115.1626167
+4180342871,Starbucks,cafe,coffee_shop,Jl. Pantai Kuta,,+62 361 8496020,,,-8.7207519,115.1697906
+4180347023,Flapjaks Kartika Plaza,restaurant,crepe;breakfast;ice_cream,Jalan Kartika Plaza,,+62 36-1763100,,,-8.7251417,115.1712869
+4180352789,Nasi Pedas Ibu Andika,restaurant,,Jalan Raya Kuta,,+62 821-4757-4022,,,-8.7270631,115.1767431
+4180375279,Nasi Tempong Indra,restaurant,,Jalan Dewi Sri,,+62 812-3458-3033,nasitempongindra.net,,-8.703895,115.1765731
+4180382396,Fukudako Japanese Restaurant,restaurant,,Jalan Kepaon Indah swung,,,,,-8.709558,115.1997724
+4180387342,Funny Pancake 'n Coffee,cafe,,"Jalan Raya Sesetan (100 meter selatan I/A/L/F),",,,,,-8.6976004,115.2189871
+4180427490,Sungai Seafood,restaurant,,Jl. Tuban,,,,,-8.7368482,115.1780651
+4180427491,NAV Family Karaoke,cafe,,Jalan Raya Kuta,,+62 361 761124,https://nav.co.id/,,-8.7218646,115.1793758
+4180562190,Take Japanese Restaurant,restaurant,,Jl. Patih Jelantik,,+62 361 759745,,,-8.7098758,115.17539
+4180899843,Pempek Corner,restaurant,,Jl. Raya Sesetan,,,,,-8.689165,115.2172605
+4182487025,New Plengkung,restaurant,,Jalan Raya Kuta,,+62 361 757393,,,-8.72956,115.1773086
+4182620840,Track 9 Terrace Bistro,restaurant,,Jalan Dewi Sri,,,,,-8.7078232,115.178427
+4182680489,Uma Kopi Seminyak,cafe,coffee_shop;sandwich;international;chicken;italian;asian,Jalan Drupadi,,,,Mo-Su 08:00-22:00,-8.6842076,115.1645231
+4182712898,UNO Terang Bulan 54 Cafe Bali,cafe,,Jl. Sunset Road,,+62 81288778854,,,-8.6820937,115.1655082
+4182721540,Warung Ava Italian Pizzeria,restaurant,,Jalan Raya Semer,,,,,-8.6503578,115.1619228
+4182741552,Warung Laota,restaurant,,Jalan Raya Kuta,,+62 361 7429068,,,-8.7334868,115.1778009
+4182754399,Warung Jowo Bandara Ngurah Rai,restaurant,,Ngurah Rai International Airport,,,,,-8.742358,115.1641104
+4182759799,Warung Cahaya (crispy pork),restaurant,,Jalan Dewi Ratih,,,,,-8.6997512,115.1750325
+4182761507,Warung Drupadi Coffee and Cake,restaurant,,Jl. Drupadi,,,,,-8.6622298,115.2331573
+4182769885,Warung Nikmat,restaurant,local;indonesian,Jl. Bakung Sari Gang Biduri,,+62 36-1764678,,,-8.7257622,115.1745252
+4182784677,Warung Pepe Pizza,restaurant,,Jalan Dewi Sri,,+62 812-3795-3511,,,-8.707707,115.1783863
+4182785648,"Warung Pizzeria ""Roma""",restaurant,,"Jalan Sunset Road, Gang Meduri",,+62 813-3755-1179,,,-8.6816905,115.1652453
+4182825448,Segara bambu,restaurant,,Jl. Astasura VI,,,,,-8.6112058,115.2202304
+4184956990,Kedai Ceret,restaurant,,Jalan Tukad Yeh Aya,,,,Mo-Su 11:00-01:00,-8.6772448,115.2349033
+4187201092,Pronto Pizza,restaurant,,,,,,,-8.7200385,115.1697459
+4189914216,Black House Burgers&Co,restaurant,,,,,,,-8.7121804,115.173356
+4195900190,THE BISTROT,restaurant,,Jalan Kayu Aya,,+62 361 738308,https://bistrot-bali.com/,,-8.6838333,115.1630211
+4196577975,Starz,cafe,western,Jalan Bypass Gatot Subroto,,,,,-8.6359348,115.2216481
+4196577982,Ayam Presto Nyonya Nita,restaurant,chicken,Jalan Bypass Gatot Subroto,,,,,-8.6358791,115.2219652
+4196648399,Waroeng Steak & Shake,restaurant,steak_house,Jalan Bypass Gatot Subroto,,,,,-8.6353758,115.2268823
+4201919517,GUSTO GELATO KAFE,cafe,,,,,,,-8.6784446,115.1680646
+4204303391,Gipsy Fish,cafe,,,,,,,-8.6951537,115.1664608
+4212531791,Layali lebanese restaurant and lounge,restaurant,,Jalan Raya Legian,,+62 851 0089 0445,https://layalibali.com,Mo-Su 12:00-23:00,-8.7027603,115.1702399
+4212531792,Ayam Bakar Wong Solo Kuta,restaurant,,Jalan Raya Kuta,,+62 36-1769487,wongsolo.com,Mo-Su 08:30-23:00,-8.7276597,115.1767198
+4219293805,Kedai Sekar,restaurant,regional,Jalan Waturenggong,,,,,-8.6769037,115.2170319
+4227630211,Souvlaki - Excellent Greek Restaurant,restaurant,greek,,,,,,-8.7189066,115.1737801
+4229384289,Warung Banyuwangi,restaurant,indonesian,jalan Mataram,,,,Mo-Su 10:00-22:00,-8.7118968,115.1765012
+4230271592,The Organic Café,cafe,,,,,,,-8.677869,115.1539282
+4231997990,Fat Chow,restaurant,indonesian,,,,,,-8.718348,115.1702083
+4236778194,Bebek Goreng Condong Roso,restaurant,regional,Jalan Teuku Umar Barat,,,,,-8.681915,115.1929009
+4236778203,Sate Padang Syukur,restaurant,regional,Jalan Teuku Umar Barat,,,,,-8.6818428,115.1932893
+4236778230,Nasi Tempong Indra,restaurant,regional,Jalan Teuku Umar Barat,,,,,-8.6814451,115.1930528
+4236778277,Depot Loy Yen,restaurant,chinese,Jalan Teuku Umar Barat,,,,,-8.68148,115.1919158
+4236826610,Iga Bakar Bagua,restaurant,regional,Jalan Teuku Umar Barat,,,,,-8.6757634,115.1848765
+4236826648,Warung Pecel Tumpang Pare Kediri,restaurant,regional,Jalan Teuku Umar Barat,,,,,-8.6743542,115.1844357
+4236826649,Pangsit Mie Pak Mo,restaurant,noodle,Jalan Teuku Umar Barat,,,,,-8.674397,115.1844826
+4239807891,Black Canyon Coffee,cafe,steak_house,,,,https://thebutchers.club/steakhouse-bali/,,-8.6740663,115.1568248
+4248093142,Nagasari Restaurant & Bar,restaurant,,JL. Singasari,,,,,-8.6338953,115.2124365
+4249818178,Cafe Me,cafe,,Jalan Pulau Kawe,,,,,-8.6791699,115.2071243
+4252545098,Grass Grain,restaurant,,Jalan Batubelig,,,,,-8.6725039,115.1541002
+4257027594,Watercress,cafe,,Jalan Batubelig,,+62 851-0280-8030,,,-8.6730586,115.1501032
+4258056366,Barbacoa,restaurant,,Jalan Petitenget,,+62 812-3999-9825,barbacoabali.com,,-8.671952,115.162944
+4258072148,D'Cost Sunset Road,restaurant,,Jl. Sunset Road,,,,,-8.7042732,115.1811464
+4258262111,Mao Jia Cai,restaurant,,Jl. Sunset Road,,,,,-8.7169298,115.1848253
+4260005678,Kober Mie Setan,restaurant,,Jalan Bedugul,,+62 818-553-847,,24/7,-8.6969632,115.2269489
+4260135983,Pocoloco Mexican Restauran,restaurant,,,,,,,-8.7015004,115.1664462
+4260148546,X.O SUKI & CUISINE,restaurant,,Jl. Sunset Road,,+62 813-1475-5917,,,-8.7025424,115.1803392
+4260251457,Rasa Sayang Restaurant,restaurant,,,,,,,-8.7145427,115.1864918
+4267724508,Madania Moslem Restaurant Bali,restaurant,,,,,,,-8.7328681,115.178907
+4267763003,Simpang Raya Cuisine,restaurant,,,,,,,-8.7107642,115.1855913
+4267802353,Ahai Chinese Food & Seafood,restaurant,,,,,,,-8.731048,115.177471
+4267805918,Kampoeng Kepiting Kuliner,restaurant,,,,,,,-8.7443547,115.184184
+4267847021,Happy Buddha,restaurant,,Jalan Raya Kuta,,+62 361 761600,,"Tu-Su 10:30-15:00, 17:30-21:00",-8.7162935,115.181257
+4267855196,Gurita Seafood,restaurant,,,,,,,-8.7067627,115.181974
+4278134148,Sari Minang,restaurant,,Jalan Gunung Batukaru,,,,,-8.6595838,115.20185
+4280222094,Bakso Seser,restaurant,,Suwung Batan Kendal,,,,,-8.7106071,115.2231974
+4301718789,Brazilian Aussie BBQ,restaurant,,,,,,,-8.7202244,115.1737317
+4312419593,Tamade Cafeteria,restaurant,indonesian;chinese;asian,Jl. Raya Basangkasa,,,,"We-Mo 10:00-15:30, 18:00-21:00",-8.6860471,115.1668816
+4312457996,Merah Putih Restaurant,restaurant,indonesian,Jalan Petitenget,,+62 361 8465950,https://merahputihbali.com/,"Mo-Su 12:00-15:00,18:00-22:30",-8.6768906,115.1545158
+4335226915,Warung Minang Permai,restaurant,indonesian,,,,,24/7,-8.7077759,115.1717815
+4339725692,Yulia's Kitchen,restaurant,,,,,,,-8.7226232,115.1717735
+4348234721,Warung Padmasari,restaurant,,Jalan Padma,,,,Mo-Su 09:00-23:00,-8.7056047,115.1704864
+4349396951,La Sicilia,restaurant,,,,,https://m.facebook.com/La-Sicilia-Bali-1943438222547980/,,-8.6857703,115.1566862
+4349396987,Urchin,restaurant,,,,,,,-8.6829194,115.1533725
+4349397257,Warung Nia - Seminyak,restaurant,,,,+62 877-6155-6688,https://www.warungnia.com/,Mo-Su 09:00-23:00,-8.6861097,115.1565953
+4349397265,Samaya,restaurant,,,,+62361731149,https://thesamayabali.com/,,-8.6834223,115.1521344
+4352830292,Segarrr,restaurant,,,,,,,-8.7374869,115.1670093
+4355928151,Warang Nusantara,restaurant,,,,,,,-8.7173131,115.1718612
+4356781091,Warung smile baby,restaurant,asian,,,,,,-8.7188308,115.1736499
+4357927083,Swell,restaurant,,,,,,,-8.7205632,115.1720822
+4360070201,Balcony,restaurant,,,,,,,-8.71272,115.1697975
+4360657498,Made's Warung,restaurant,,,,,,,-8.7222027,115.1753812
+4382865090,Mugshot coffee,cafe,cake;coffee_shop,Jalan Padma Utara,,+62 813-3764-4359,,Mo-Su 06:00-17:00,-8.7016608,115.1664141
+4386228290,GAPET Roasted Chicken & Duck,restaurant,asian;chicken;coffee_shop;indonesian;noodles,Jalan Kayu Aya,,,,"Mo-Su 11:00-13:45, 19:15-22:00",-8.686153,115.1566321
+4407784428,Trattoria Oberoi,restaurant,,Jalan Laksamana Basangkasa,,+62 361 737082,https://trattoriaasia.com/,,-8.6840916,115.1602159
+4407850090,Bemo Corner Coffee Shop,cafe,,Jalan Pantai Kuta,,,,,-8.7222897,115.1758548
+4409057779,Ah Mei Cafe Bali,cafe,,Jalan Dewi Sri II A,,+62 361 764933,,,-8.7035998,115.1761088
+4409117037,Tokomono Bali,cafe,international;indonesian,Jalan Kediri,,+6281353269842,,Mo-Sa 11:00-20:00,-8.7373787,115.1764817
+4409152584,9/11 Cafe & Concept Store,cafe,,Jalan Teuku Umar Barat,,+62 36-14717481,,,-8.6810555,115.1883856
+4409294223,Bebek Bengil Tuban Kuta,restaurant,asian,Jalan Raya Kuta,,+62 361 765549,bebekbengil.com,10:00-22:30,-8.7300004,115.177344
+4409346695,Anomali Coffee,cafe,,Jalan Dewi Sri,,+62 36-1767119,,,-8.706925,115.1779153
+4409400973,Aroma Medan,restaurant,chinese,Jalan Raya Sesetan,,+62 36-1727393,,,-8.7108847,115.2187273
+4409567927,Ayam Bakar Taliwang Baru,restaurant,,Jalan Teuku Umar,,+62 36-1263031,,,-8.6692456,115.2128495
+4409570159,Ayam Bakar Wong Solo,restaurant,,Jalan Merdeka X,,+62 36-1231191,,,-8.6651863,115.2392937
+4409594124,Ayam Betutu Khas Gilimanuk Central Parkir,restaurant,,Jalan Raya Kuta,,+62 36-17983272,,,-8.7120311,115.1802099
+4409599068,Ayam Betutu Pak Man Kuta,restaurant,,Jalan Raya Kuta,,+62 36-18633570,,,-8.7313648,115.1776301
+4410773591,Bakso Herman,restaurant,,Tukad Pakerisan,,,,,-8.6811848,115.2258251
+4410837935,Bali Nikmat,restaurant,,Jalan Raya Kuta,,+62 36-1755175,,,-8.7071962,115.1814464
+4410947329,Bator Bali,restaurant,,Jalan Mahendradatta Selatan,,+62 822-3758-3602,,,-8.6867079,115.1863283
+4411027435,Bibimbap Korean Restaurant,restaurant,,Jalan Bypass Ngurah Rai,,+62 36-18496264,,,-8.7222914,115.1817359
+4411030337,Billionaire's Cut Barber and Coffeeshop,cafe,,Jalan Nakula,,,,,-8.6970098,115.1694242
+4411120918,Bubur Ayam Bang Yos,restaurant,,Jalan Raya Kuta,,,,,-8.7224063,115.1769388
+4411136300,C'Bezt,restaurant,,Jalan Kediri,,,,,-8.7387072,115.1720462
+4411143212,Cafe Cream,cafe,,Jalan Raya Sesetan,,+62 361 720449,,,-8.7034939,115.2195978
+4411343454,Cosmic Dinner,restaurant,,Sunset Road,,+62 36-18947389,,,-8.7000113,115.1780697
+4411871289,Prin Ci Ple,restaurant,,,,,,,-8.6873616,115.1673812
+4412571077,Dapur Nyonyah Besar,restaurant,,Jalan Villa Umalas,,+62 813-5333-6424,,,-8.668792,115.1573747
+4412613902,Depot Gimbo Babi Asap,restaurant,regional,Jalan Imam Bonjol,,+62 36-1483402,,,-8.6904184,115.1901868
+4412629826,Dewi Sri Food Center,restaurant,,Jalan Raya Kuta,,,,,-8.7099285,115.1807989
+4412716588,EatWell Bali,restaurant,,Jalan Raya Basangkasa,,+62 36-1737745,,,-8.6860388,115.1671143
+4412757715,Kafe Betawi,cafe,,Jalan Kayu Aya,,,,,-8.6838958,115.1615036
+4412848089,Flapjaks Kuta,restaurant,,Jalan Pantai Kuta,,+62 36-1765674,,,-8.7195223,115.1693397
+4412860375,Kartini Depot,restaurant,,Jalan Kartini,,+62 361 231318,,,-8.6540525,115.2134428
+4412911047,Furama Restaurant Tuban,restaurant,,Jalan Raya Tuban,,,,,-8.7415549,115.1786569
+4414252203,Ganidha Resto & Lounge,restaurant,,Jalan Gunung Soputan I,,+62 36-18466657,,,-8.6850736,115.1895633
+4414390657,Gochi Chiken House,restaurant,,Jalan Kebo Iwa,,+62 36-14715067,,,-8.6449839,115.1857135
+4414461140,Grain Espresso,cafe,,Jalan Raya Seminyak,,+62 36-1730528,,,-8.6946807,115.1683433
+4414619619,Loving Hut,restaurant,international,Jl. P.B. Sudirman,,+62 361 241035,http://www.lovinghut.co.id,"Mo-Sa 08:00-23:00, Su 12:00-23:00",-8.6762478,115.2187176
+4415956569,Gula Bali The Joglo,restaurant,,Jalan Merdeka Raya VI,,+62 812-3880-7791,,,-8.711939,115.1848888
+4415961363,Hacienda Petitenget,restaurant,,Jl. Petitenget,,+62 36-1738388,,,-8.6715554,115.1614922
+4415966605,Hanamasa - Drupadi,restaurant,,Jalan Drupadi,,+62 36-1264960,,,-8.6658798,115.233489
+4417311035,HUT Bali,restaurant,,Jalan Drupadi 1 no 2,,+62 812-3660-9776,,,-8.6892377,115.1668688
+4417321079,Bebek Bu Rima,restaurant,,Jalan Raya Kuta,,,,,-8.7300888,115.1772084
+4418310541,Nasi Lawar Bali,restaurant,,Jalan Pantai Berawa,,,,,-8.6441297,115.153727
+4418311944,Nasi Pecel Bu Tinuk,restaurant,asian,Jalan Raya Tuban,,+62 361 757476,,,-8.7332292,115.1777387
+4418314267,Nasi Pedas Bu Anik,restaurant,,Jalan Raya Kuta,,,,,-8.7234171,115.1765933
+4418378187,Ikan Bakar Cianjur,restaurant,,Cok Agung Tresna,,+62 36-1230015,,,-8.6671032,115.2361383
+4419446089,Boss man,restaurant,,Jalan Kayu Cendana,,,,,-8.6832387,115.1574689
+4421386827,Dapur Sedap,restaurant,,Jalan Kediri,,+62 361 758890,,,-8.7385332,115.1713841
+4421391630,Restoran Renon,restaurant,,Cok Agung Tresna,,+62 361 261364,,,-8.6670125,115.2358101
+4421395328,Restoran Sederhana,restaurant,,Jalan Teuku Umar,,+62 361 221459,,,-8.6723855,115.2087259
+4421398780,JEBAK (Jejak Bali Kuliner),restaurant,,Jalan Teuku Umar,,+62 36-19382111,,,-8.6807721,115.2019862
+4421527320,Rumah Makan Kedaton,restaurant,,Jalan Bypass Gatot Subroto,,+62 361 425009,,,-8.6355834,115.218749
+4421532369,Rumah Makan Manado Dodika,restaurant,,Sunset Road,,,,,-8.6957775,115.1757452
+4421550838,Ryoshi House Of Jazz,restaurant,,Jalan Raya Seminyak,,+62 361 731152,https://ryoshibali.com/,,-8.69532,115.1681569
+4421568659,Warung Sobat II,restaurant,,Jalan Pengubengan,,+62 36-1731256,,,-8.6689073,115.1692557
+4421571693,Sardine Restaurant,restaurant,,Jl. Petitenget,,+62 811-3978-333,https://sardinebali.com/,,-8.6716728,115.1626016
+4421574858,Sate House,cafe,,Jalan Dewi Sri,,,,,-8.707335,115.178193
+4421678988,ShangHai Baby Restaurant,restaurant,,Jl. Petitenget,,,,,-8.6777774,115.1537339
+4421691490,Shisha Cafe Sunset Road,restaurant,arab;lebanese,Sunset Road,,+62 361 759445,https://shisha.co.id/,,-8.7164091,115.1849625
+4421794181,Soup Kepala Ikan,restaurant,,Jalan Raya Kuta,,+62 361 7928803,,,-8.7173173,115.1811032
+4423060637,Starbucks,cafe,coffee_shop,Jalan Pantai Kuta (Beachwalk Mall),,+62 21 5746501,https://starbucks.co.id/,,-8.7165819,115.1696485
+4423063584,Starbucks,cafe,coffee_shop,Jalan Kartika Plaza (Lippo Mal Kuta),,,https://starbucks.co.id/,,-8.7353294,115.1670815
+4423070663,Whale And Co,cafe,,Jl. Sri Kresna,,+62 878-6156-0977,,,-8.6982419,115.1727109
+4423071458,Stickee,cafe,,Jalan Dewi Sri,,+62 361 751178,stickeecafebali.com,,-8.703926,115.1763465
+4423089133,Warung Joni Geboy Steak & Surabi,restaurant,,Jalan Tukad Barito,,+62 36-14722784,,,-8.6843134,115.2291767
+4423090267,Warung Italia Pizzeria,restaurant,,Jalan Kunti,,+62 36-1737437,,,-8.6887161,115.1681122
+4423096980,Warung Cahaya (Crispy Pork),restaurant,,Jalan Dewi Ratih,,+62 85205830136,,,-8.6993175,115.1750791
+4423100893,Sunda Kelapa,restaurant,,Jalan Kediri,,+62 361 756995,,09:00-22:00,-8.7387611,115.1739644
+4423101629,Warung Betawi A Hong,restaurant,,Jalan Raya Tuban,,+62 36-1761979,,,-8.740521,115.178679
+4423118307,Warung Soerabi Bandung 101,restaurant,,Jalan Dewi Sri,,+62 812-3901-3504,,,-8.7072336,115.1781142
+4423142287,Sushi Tei,restaurant,,Jalan Pantai Kuta,,+62 361 8496496,sushitei.co.id,,-8.7167786,115.1689272
+4423184090,Taco Casa,restaurant,,Jl. Petitenget,,+62 812-2422-2358,https://tacocasabali.com/,,-8.6726781,115.159819
+4423243502,Tea Garden Restoran,restaurant,,Sunset Road,,+62 361 4726258,,07:00-23:00,-8.7106824,115.1856399
+4423701490,Three Kings Pizza,restaurant,italian_pizza,Jalan Pattimura,,,,,-8.711829,115.1751698
+4425079640,Marble Coffee,cafe,,Jalan Bypass Gatot Subroto,,,,,-8.6354706,115.2310373
+4425081832,Depot Hoki,restaurant,chinese,Jalan Bypass Gatot Subroto,,,,,-8.636131,115.2343602
+4446961435,SA,restaurant,,,,,,,-8.7368262,115.1646406
+4446961436,Envy,restaurant,,,,,,,-8.7364033,115.1631219
+4454249989,Warung Max,restaurant,burger;italian_pizza,,,,,Mo-Su 10:00-01:00,-8.715833,115.172455
+4457428321,Mie Pangsit Medan Thien Thien Hao,restaurant,noodle,Jalan Raya Buluh Indah,,,,,-8.637611,115.1967834
+4458674692,Seminyak,cafe,,,,,,,-8.6940868,115.1681052
+4469412225,Sate Kambing Sudi Mampir,restaurant,regional,Kaliasem,,,,,-8.6546396,115.2185713
+4470029894,Divine Earth,restaurant,,,,,,Mo-Su 09:00-21:00,-8.6836,115.1666135
+4470091489,Petitenget,restaurant,,Jalan Petitenget,,,,,-8.6812822,115.1526336
+4470920297,Warung Arifin (Sate Ayam dan Kambing),restaurant,indonesian,Jalan Tukad Yeh Aya,,,,24/7,-8.6775165,115.2341854
+4472601494,Jadi Home Cafe,restaurant,regional,Jalan Double Six,,+62 817 9720903,https://m.facebook.com/Jadis-home-cafe-195929740456147/,Mo-Sa 18:00-22:00,-8.6973251,115.1663318
+4494434427,Starbucks,cafe,coffee_shop,Jalan Teuku Umar,,,,Mo-Su 08:30-22:00,-8.6696779,115.2152203
+4498130090,Warung Hati,restaurant,,,,,,,-8.7211598,115.1735225
+4513100489,моto,restaurant,asian;indonesian;local;barbecue;regional,,,,,,-8.6632563,115.1675624
+4515562771,Warung Lesehan Kamila,restaurant,,,,,,,-8.7266088,115.176706
+4530999289,Warung Norman Here,restaurant,indonesian;international;local,,,,,,-8.7232087,115.1753041
+4540845403,hitana the restaurant at Bali niksoma,restaurant,,,,,,,-8.6984016,115.1620149
+4564633490,Aribar,restaurant,mexican,,,,,,-8.7281207,115.1691873
+4570164292,Good place quite cheap as well,restaurant,,,,,,,-8.6365761,115.2262746
+4582472591,Tepan Noodle,restaurant,indonesian;sushi;asian,,,,,,-8.7286674,115.1665241
+4584769491,Shearloch,cafe,,Jl. Petitenget,,,http://www.experienceshearlock.com,,-8.6717393,115.1622744
+4586850690,THE PAD bar and grill,restaurant,burger;sandwich;grill;coffee_shop;asian;steak_house;pasta;pizza;italian_pizza;thai;oriental;breakfast;american;italian;barbecue,,,,,24/7,-8.7125411,115.1729672
+4589298993,Un's restaurant,restaurant,indonesian;international;french,,,,,,-8.7222,115.17499
+4597527390,Pizza Hut,restaurant,pizza,,,,,,-8.6828028,115.1670471
+4597527392,J.CO,cafe,,,,,,,-8.6827951,115.1668807
+4619745889,Warung Eny,restaurant,,,,,,,-8.6765409,115.1563095
+4624905094,Ikayana,restaurant,seafood,Jalan Imam Bonjol,,,,,-8.6930996,115.1886047
+4628958022,Bakmi & Bakso Raindy,restaurant,regional,Imam Bonjol Square,,,,Mo-Su 09:00-21:00,-8.7003641,115.1860099
+4628958071,Kepiting Sukro,restaurant,seafood,,,,,,-8.6989942,115.1851267
+4629419860,Rawon Setan Surabaya,restaurant,,Jalan Imam Bonjol,,,,,-8.7024081,115.1846539
+4632134893,Nostimo Greek Grill Bali,restaurant,greek;grill,Jalan Petitenget,,,,Mo-Su 12:00-23:30,-8.6715992,115.1620523
+4635107291,Happy Falafel,restaurant,,,,,,,-8.6912184,115.1651277
+4639060590,Grain Bali,restaurant,breakfast,Jalan Raya Seminyak,,,,Mo-Su 07:30-22:00,-8.6945559,115.168357
+4650774092,Sakanaya,restaurant,fish;fish_and_chips,Sunset Road,,,,Mo-Su 10:00-21:30,-8.6863237,115.170643
+4670761889,Warung Bu Pur,restaurant,indonesian,Jalan Nakula,,,,,-8.6982659,115.1738152
+4684261597,Gong Corner Restaurant,restaurant,,Gang Bedugul,,,,,-8.7195421,115.1737521
+4684272791,Rating Asia Thaï Food,restaurant,,Jalan Werkudara,,,,Mo-Su 11:00-23:00,-8.6978582,115.1646863
+4706702605,Taris grill,restaurant,,,,,,,-8.6937158,115.1591784
+4707630197,Warung Etnik,cafe,,Jalan Legian,,,,,-8.7108523,115.1725772
+4709235289,Warung pacman,restaurant,,,,,,,-8.7109952,115.1707131
+4712799489,Warung Ronggeng,restaurant,,,,,,,-8.6972802,115.172413
+4727144590,Tri Hita Vegan(gofod),cafe,,"jl.tibung sari no.58x,kwanji Dalung",,,,,-8.6229786,115.1805981
+4727224692,Taichian(gofod),cafe,,,,,,,-8.6426395,115.1559459
+4730177489,Poulet - Grill & Savory,restaurant,cake;burger;grill;breakfast;international;french;fine_dining;coffee_shop;pancake;chicken;sandwich;savory_pancakes;barbecue;ice_cream,,,,,,-8.6982667,115.1743986
+4731648226,Tommy's,restaurant,sausage;deli;sandwich;coffee_shop;breakfast,,,,,,-8.6995856,115.1670274
+4733180923,Bo & Bun,restaurant,fine_dining;vietnamese,,,,,,-8.6872799,115.1673138
+4733214722,The Dusty Cafe,restaurant,cake;burger;sandwich;breakfast;mediterranean;international;deli;tea;coffee_shop;crepe;bagel,,,,,,-8.6910075,115.1672504
+4733516921,The Koop Roaster & Café,cafe,,,,,,,-8.6895895,115.1654326
+4737835421,Pempek Quincy(gofod),restaurant,,,,,,,-8.6702213,115.227264
+4739359822,Ghost bird napruso capsule(go fod),cafe,,,,,,,-8.6725603,115.1696065
+4742675283,Agus Bar & Restaurant,restaurant,indonesian;regional,Jalan Tukad Punggawa,,,,,-8.7215879,115.2387549
+4742814831,Warung,cafe,,,,,,,-8.675692,115.1670869
+4744094821,Taco Beach Grill,restaurant,mexican,,,,,,-8.6885709,115.1685362
+4744980228,Sidewalk,cafe,burger;breakfast;asian;friture;indonesian;american;italian;pancake;chicken;italian_pizza;curry,Jalan Melasti,,+623618007708,,Mo-Su 08:30-00:00,-8.7087584,115.1694623
+4744980229,Puri Bali Indah,restaurant,indonesian,Jalan Melasti,,+62361751644,,Mo-Su 11:30-22:30,-8.7089325,115.1686749
+4745017022,Warung mina,cafe,indonesian;american;asian,benesari street,,+62 3614726752,,,-8.7140299,115.1720885
+4750663821,Pangsit malang57(gofod),restaurant,,,,,,,-8.68514,115.2378717
+4750759322,Holy Guacamole,restaurant,mexican,Jalan Melasti,,+62 812-3901-8028,https://www.holyguacamolebali.com/,,-8.7089056,115.1689028
+4751791222,Sendok Bar & Restaurant,restaurant,,,,,,,-8.7246613,115.1729523
+4752541423,Bali Lucky Warung,restaurant,local;indonesian;seafood;breakfast,,,,,,-8.7246526,115.1734191
+4753777333,Blue Lobster Restaurant,restaurant,seafood;indonesian;local,,,,,,-8.7268104,115.1703576
+4754425421,Moo Moo’s Steakhouse Bar & Grill,restaurant,indonesian;burger;grill;barbecue,Jalan Padma,,+62 811-3880-37,https://www.moomoos-bali.com,Mo-Su 08:00-24:00,-8.705867,115.1705686
+4755619939,Fat Tony's,restaurant,burger;hot_dog,,,,,Tu-Su 14:00-21:30,-8.707771,115.1748053
+4756500422,Swiss,restaurant,,,,,,,-8.7092465,115.172213
+4756543921,Bloody sweet,restaurant,burger;grill;seafood;asian;chinese;indonesian;pasta;chicken;brazilian;vietnamese;mexican;barbecue,Jalan Raya Legian,,+62 623 61752167,,,-8.7106327,115.1726486
+4760872421,Si Doi 363,restaurant,indonesian;pasta;pizza,Jalan Raya Legian,,+62 36-1761657,,,-8.7098651,115.1723719
+4767366624,Warung Tujuh,restaurant,indonesian,,,,,,-8.7109069,115.1709578
+4778012421,Warrung Pepe,restaurant,asian,,,,,,-8.7246461,115.1741067
+4780354321,Soto padang Amak,restaurant,,jl.legian,,,,,-8.7015724,115.1700185
+4782165124,Warung Saman,restaurant,,Tukad Gangga,,+62 851-0178-8787,,Mo-Su 09:00-22:00,-8.6748225,115.2282649
+4782411026,Crumb & Coaster,restaurant,,,,,,,-8.7171933,115.1724162
+4782419525,Un's restaurant,restaurant,,,,,,,-8.7220106,115.1749441
+4782419528,Johnny Tacos,restaurant,,,,,,,-8.7311971,115.1674804
+4787318921,Gourmet Cafe,cafe,,,,,,,-8.7018396,115.1763387
+4787403121,Warrung,restaurant,asian,,,,,,-8.7295356,115.1715891
+4788129622,Wr.nasi ayam pasar pidada9(blkg papan pasar),restaurant,,,,,,,-8.6354309,115.2016235
+4788144221,Wr.nasi ayam pasar pidada,restaurant,,,,,,,-8.6353233,115.2013567
+4788168318,UD Barong,restaurant,regional,Jalan Griya Anyar,,,,,-8.7187919,115.1925103
+4788191404,Restoran Sederhana,restaurant,regional,Jalan Bypass Ngurah Rai,,,,,-8.724992,115.1806509
+4788334005,Platter,restaurant,japanese,Jalan Bypass Ngurah Rai,,,,,-8.7305522,115.1785272
+4801273221,Warung Tujuh,restaurant,,,,,,,-8.710106,115.1727972
+4805124424,Kitchenette™,cafe,,,,,,,-8.717496,115.1689728
+4805633342,"Warung Muslim ""Tazkia""",restaurant,regional,,,,,,-8.7408908,115.1713972
+4808785621,Warung pama,restaurant,indonesian;asian;sandwich;international;italian;italian_pizza;coffee_shop;breakfast;pancake;pizza;thai,,,,,,-8.7187502,115.1738108
+4808979521,The Caffeine Coffee Shop,cafe,,Jl. Legian Kaja,,+62 36-1750998,,Mo-Su 08:00-23:00,-8.7008639,115.1698667
+4809786535,Wacko Burgers,restaurant,,,,,,,-8.6910743,115.1618188
+4810818823,The Coffee Library,cafe,,Jl. Raya Seminyak,,+62 36-14741255,,Mo-Su 08:00-23:00,-8.6840694,115.1596483
+4817070022,Ayam bkr Wo Aini,restaurant,,,,,,,-8.6779669,115.2063817
+4817206366,Warung Ten Poh,restaurant,indonesian,,Tuban,,,11:00-23:00,-8.7434607,115.172511
+4821587721,Selamat Datang Di Waroeng Vegetarian Sariboga,restaurant,,,,,,,-8.6533965,115.2106951
+4822670321,Bali Coffee,cafe,,,,,,,-8.650255,115.2173111
+4832775221,Deliziosa Pizza&Pasta,restaurant,indonesian;italian,Jl. Popies II,,+62 361 4727524,,Mo-Su 09:00-00:00,-8.7173494,115.1724878
+4833820121,Maya Sayang,restaurant,,Jalan Mertasari,,,,,-8.6840978,115.1597585
+4838433622,HAPPY MIE,restaurant,,Jalan Raya Semer,,,,,-8.6562145,115.1626668
+4843790621,Chez Gado,cafe,,,,,,,-8.6930296,115.1590322
+4846658829,Warung Coconut Bene,restaurant,,,,,,,-8.7126726,115.1697962
+4856724819,Speedway Sports Bar & Grill Seminyak,restaurant,sandwich;coffee_shop;burger;pizza;pasta;kebab;steak_house;salad;international,Jalan Mertanadi,,+62 877 7117 7837,https://speedway.ps.me,Mo-Su 10:00-02:00,-8.6774289,115.1694301
+4861463422,Baby revolver,cafe,,,,,,,-8.6766161,115.1559621
+4865646322,Seacrets,restaurant,,,,,,,-8.7085005,115.1715279
+4867341321,La Baracca,restaurant,,Jl. Petitenget,,,,,-8.6717181,115.1623733
+4867426121,California Cafe & Barber,restaurant,,,,,,,-8.7139741,115.1720468
+4867744325,Monsieur Spoon Petitenget,restaurant,,,,,https://www.champ-group.com/en/monsieur-spoon-en/,,-8.671551,115.1619264
+4867961824,Saigòn Streẽt,restaurant,vietnamese,,,,,,-8.678256,115.1538835
+4871090822,Best Nasi Goreng on planet earth,restaurant,,,,,,,-8.6818214,115.1513419
+4881618023,EARTHXPRESS,cafe,,,,,,Mo-Su 07:00-23:00,-8.6896946,115.1631975
+4887159522,Warung amla,restaurant,,,,,,,-8.7121732,115.2156924
+4891933526,DIMSUN manan,restaurant,,,,,,,-8.6463424,115.1956373
+4891933623,Kampung Steak&Blend,restaurant,,,,,,,-8.6462799,115.1956464
+4891944525,Soerabi nyonya bandung,restaurant,,,,,,,-8.6464115,115.1956316
+4893470021,Warung Q,restaurant,,,,,,,-8.7119914,115.1739122
+4894735121,SABO sate babi oka,restaurant,,,,,,,-8.6810336,115.200619
+4897429025,Warung Gua Pindul,restaurant,,,,,,,-8.7299147,115.1695898
+4898774127,Deity of Miracle Vegan Resto,restaurant,,,,,,,-8.6994753,115.1798042
+4898800221,Felice's Vegetarian Restaurant,restaurant,,,,,,,-8.7153607,115.1682457
+4898813823,EcoSmart,cafe,,,,,,,-8.7203656,115.1831058
+4900330521,California Cafe & Barber,cafe,,,,,,,-8.714221,115.1721085
+4903162921,Earthxpress,cafe,,,,,,,-8.6896135,115.1632766
+4904247521,Tamade cafeteria,restaurant,,,,,,,-8.6858772,115.1669585
+4905456521,WACKO Burger Cafe,restaurant,burger;american;pizza,Jalan Drupadi,,+6282144010888,,Mo-Su 08:00-23:00,-8.6897376,115.1628164
+4908898123,Fat Tony's,restaurant,,,,,,,-8.7078365,115.1744818
+4916563421,Siomay Dagira bandung,restaurant,,,,,,,-8.6253151,115.1712663
+4918639221,Bli Crackling,restaurant,,,,,,,-8.6725332,115.1602794
+4918965621,Gua Pindul,restaurant,,,,,,,-8.7299525,115.1695715
+4919117222,Italy Cafe,restaurant,italian,,,,,,-8.6725971,115.1538497
+4919117223,La Gastronomia,restaurant,italian_pizza,,,,,,-8.6725322,115.1563325
+4919935121,Tendan Korean BBQ,restaurant,,,,,,,-8.6720583,115.1559419
+4920269022,Don Cafe and Grill,restaurant,,,,,,,-8.6727836,115.1517396
+4927826021,The Coffee Club,cafe,,,,,,,-8.742674,115.1663463
+4935327524,Warung Mama,restaurant,indonesian;italian;grill,Jalan Pattimura,,,,,-8.711915,115.17469
+4935342322,warung Asia Thai food,cafe,,,,,,,-8.6972688,115.1645355
+4938032721,Alleycats,restaurant,,,,,,,-8.7171607,115.1726756
+4939721821,Warung Kusuma Kitchen,restaurant,,,,,,Mo-Su 10:00-20:00,-8.7136851,115.1746552
+4940029100,Surf Cafe,restaurant,international;russian;indonesian,Jalan Pantai Kuta,,,,Mo-Su 08:00-22:00,-8.711854,115.167671
+4940515021,The Luhron,restaurant,,,,,,,-8.6754311,115.152942
+4943429721,Warung Makan Nikmat,restaurant,local;indonesian;javanese,JL. Kubu Anyar gg. Biduri,,,,10:00-22:00,-8.725053,115.1745322
+4943999428,Warung Mbok Epong,restaurant,,,,,,,-8.7307484,115.1712791
+4948829225,Warung,restaurant,indonesian;regional,Belitung,,,,,-8.6581591,115.2146102
+4957869824,Warung pengubengan,restaurant,indonesian,,,,,,-8.6713206,115.1687735
+4957882121,Warung kudu-ku,restaurant,indonesian,,,,,,-8.6800764,115.1674395
+4970323724,Metis,restaurant,,,,,,,-8.6717444,115.1622521
+4972928122,Dapoer Indonesia,restaurant,indonesian,Jl. Mataram,,,,,-8.7184342,115.177046
+4974833621,Beranda Warung Mina Dalung,cafe,,,,,,,-8.6236249,115.1743914
+4978736826,fat gajah,restaurant,,,,,,,-8.6876772,115.1672646
+4982444523,Warung Widi,restaurant,indonesian,,,,,Mo-Su 07:00-22:00,-8.6372772,115.1550064
+4984323322,Warung Nauli,restaurant,indonesian,,,,,,-8.7162291,115.1721785
+4984376124,Saigon Steet Bali,restaurant,,Jl. Petitenget,,,,,-8.6779666,115.1538303
+4984376125,HUT Bali,cafe,,Jalan Drupadi,,,,,-8.6892801,115.1668099
+4996048823,Sengol Pribumi(go fod),restaurant,,,,,,,-8.6779301,115.2376639
+4996051322,Nasi Ayam Kedewatan(ibu mangku),restaurant,,,,,,,-8.6779386,115.2379096
+5001273434,Mak Madura Gunarso,restaurant,indonesian,Jalan Batusari,,,,Mo-Su 08:00-18:00,-8.6736573,115.2224572
+5001273496,Tukad Kopi,cafe,indonesian;western,,,+628113391138,,Mo-Sa 09:00-22:00,-8.6739392,115.224469
+5004781521,Temu Coffee Seminyak,cafe,,,,,,,-8.6835,115.1574584
+5005248624,BrickHouse,cafe,coffee_shop;cake;tea;international;sandwich;pizza,,,,,Mo-Su 08:00-21:00,-8.6871966,115.1673059
+5006153921,Warung Jerami,restaurant,asian;breakfast;international,,,,,Mo-Su 07:00-23:00,-8.6883608,115.1692346
+5006153922,Warung Temuku,restaurant,,,,,,Mo-Su 08:00-16:00,-8.6884523,115.1684574
+5006154122,Cabe Rawit,restaurant,,,,,,,-8.6885254,115.1686986
+5006154124,Cafe Molka,cafe,breakfast;sandwich;indonesian;coffee_shop,,,,,Mo-Su 07:00-21:00,-8.6878567,115.1674115
+5006154221,Victoria Cafe,cafe,,,,,,,-8.6883398,115.1690139
+5006154321,Fat Gajah,restaurant,asian,,,,,,-8.688109,115.1673289
+5014237528,Warung Mina,restaurant,,,,,,,-8.6822967,115.1554333
+5018000821,Pizza Hut,restaurant,pizza,,,,,,-8.7235969,115.1841638
+5031807021,Waroeng rijstveld,restaurant,,,,,,,-8.6617343,115.1719206
+5036659522,Hut Bali,cafe,,,,,,,-8.6892131,115.1668316
+5040396121,Dough Darlings,cafe,,,,,,,-8.6759838,115.1566927
+5051710421,kecil smoothie bowls,restaurant,,,,,,,-8.6906578,115.1646559
+5055647821,Geo-Coffee and Roastery,cafe,coffee_shop,,,,,,-8.6649369,115.1702983
+5055775166,Warung Bu Ayu,restaurant,asian,,,,,,-8.6625415,115.1676192
+5055775167,Warung Gita,restaurant,,,,,,,-8.6615406,115.1672884
+5055775168,Warung Tepi Sawah,restaurant,asian,,,,,Mo-Su 07:00-22:00,-8.6628625,115.1684145
+5057522523,goedkope warung,restaurant,,,,,,,-8.6745374,115.1645815
+5058091124,Piccola Italia,restaurant,italian_pizza,Gang Bedugul,,,,,-8.7193224,115.1737543
+5060179221,Gala More - oriental food and drink,restaurant,asian,Jl. Kartika Plaza Gg. Samudra,,+62 812-3805-116,,,-8.734533,115.1654917
+5065427921,Warung Ladhu,restaurant,indonesian;breakfast,Jalan Camplung Tanduk,,,,,-8.6911161,115.1655392
+5068873122,Warung Jerami,restaurant,asian;indonesian,Jalan Kunti,,,,,-8.6884574,115.1693314
+5073201521,cafe Moonlight,restaurant,indonesian;breakfast;tea;crepe;coffee_shop;sandwich;pancake;italian,Jl. Beraban,,+6285100518588,https://cafemoonlightbali.com/,Mo-Su 07:30-23:00,-8.6781017,115.1633832
+5073595621,Warung Siam,cafe,thai,,,,,,-8.6834857,115.1576643
+5075091364,Taste of Oriental,restaurant,chinese,Jalan Raya Kuta,,,,,-8.7218924,115.179232
+5075091374,Bakso Kota Khas Malang,restaurant,indonesian,Jalan Raya Kuta,,,,,-8.7218731,115.1792913
+5075383106,Babi Ngepot,restaurant,pork,Jalan Kalianget,,,,,-8.7246485,115.1769931
+5076865129,Bistro Batu Kali,restaurant,,Jalan Kayu Aya,,,,Mo-Su 08:00-23:30,-8.6842267,115.1601942
+5092584621,Rice Paddy Cafe,restaurant,,,,,,,-8.710849,115.170711
+5093482022,Felafel House,restaurant,lebanese,Jalan Raya Legian,,,,,-8.7155405,115.1738596
+5093508022,Bakmi Nyemek,restaurant,,,,,,,-8.6422762,115.2090725
+5093510221,Warung Bu Kris,restaurant,,,,,,,-8.640752,115.208894
+5103571094,Terrazza Steakhouse,restaurant,steak_house,Jalan Bypass Gatot Subroto,,,,,-8.6365033,115.1838167
+5104442860,Chatime,cafe,teahouse,Jalan Bypass Gatot Subroto,,,,,-8.6371389,115.1797833
+5104495222,Restoran Cak Asmo,restaurant,,Jalan Mahendradatta,,,,,-8.6709717,115.1911406
+5104495254,Mahendradatta Fried Duck Haji Slamet,restaurant,regional,Jalan Mahendradatta,,,,,-8.6707258,115.1915376
+5104495289,Ayam Betutu Bu Lina,restaurant,regional;chicken,,,,,,-8.6698061,115.190766
+5106685122,Dimsum Manan,restaurant,,,,,,,-8.6463752,115.1956157
+5108308622,Kynd Community,restaurant,,Jl. Petitenget,,+62 859 3112 0209,https://www.kyndcommunity.com,"Mo-Su 06:00-17:00,18:00-22:00",-8.6750922,115.1567242
+5108782221,Siobak Khe Lok Singaraja,restaurant,,,,,,,-8.6492128,115.2112691
+5109285184,Warung Muslim Bidadari,restaurant,asian;regional;indonesian,,,,,24/7,-8.682311,115.1677996
+5117209123,Pork Belly Bali,cafe,,,,,,,-8.6780612,115.2375404
+5121962222,Warung Malang seafood and chinese food,restaurant,fish;oriental;seafood;asian;local;malaysian;indonesian;chinese;noodles;fish_and_chips;thai,Jalan Raya Kuta,,+62 36-1753159,,,-8.7311165,115.1773299
+5122102022,Puja Sera Wisata Kuliner,restaurant,indonesian,,,,,,-8.7375035,115.1683628
+5123871122,Bakso Gerobak Biru,restaurant,,,,,,,-8.6996188,115.1627902
+5125915321,sand bar,restaurant,,,,,,,-8.7199172,115.1694275
+5126003323,Bakmi 99,restaurant,chinese,Jalan Bedugul,,+62 812-3899-9922,,Mo-Su 11:00-09:00,-8.6962245,115.22709
+5126329921,Boekan Ramen,restaurant,,,,,,,-8.7051935,115.1770736
+5130080524,Warung Pak Arba,restaurant,,,,,,,-8.6470965,115.1859715
+5132367828,Bubur Ayam Khas Jakarta,restaurant,,,,,,,-8.6771105,115.2062631
+5138701421,Fat Turtle,restaurant,,,,,,,-8.6783539,115.1537334
+5141051721,Depot 818 Cabang Sesetan,restaurant,chinese,Jalan Raya Sesetan,,+62 821-1129-9686,,Mo-Su 09:00-22:00,-8.7086563,115.2208087
+5172355323,Warung Muslim Moro Seneng Ibu Tien,restaurant,indonesian,,,,,,-8.7183828,115.1808587
+5186339021,Principle Bali,restaurant,,Jalan Raya Basangkasa,,,,,-8.6879462,115.1674325
+5194220522,Azul beach club,restaurant,,Beach Front. Jl. Padma 2 Legian,,+62 361 61756759,https://www.azulbali.com/,"PH,Mo-Su 07:00-23:00",-8.7072095,115.1665117
+5201380622,Warung Makan Arizal,restaurant,indonesian,Jl. Mataram,,,,,-8.7190714,115.1770225
+5210401924,Nuka,cafe,,Jalan Wana Segara,,,,,-8.7373751,115.1668158
+5211483222,KOKO warung Bar & Restaurant,restaurant,,,,,,,-8.7087596,115.1698455
+5223083322,Shisha Temple,cafe,,,,,,Mo-Su 12:00-22:00,-8.6886662,115.1710209
+5224948522,Gourmet Cafe Petitenget,cafe,,Jl. Petitenget,,,https://balicateringcompany.com/,,-8.6764028,115.156503
+5225682621,TROPICANA Cafe&Churros,cafe,,,,,,,-8.6691444,115.1576678
+5226397922,Warna Cafe,restaurant,,,,,,,-8.6368554,115.1553366
+5228260624,Perama D&D Cafe,restaurant,,,,,,,-8.720401,115.1750329
+5231753721,Warung “Corner”,cafe,,,,,,,-8.6621385,115.1646005
+5237422622,Warung Sentosa,restaurant,indonesian,,,,,,-8.6560864,115.1624627
+5244157921,chines food,restaurant,,,,,,,-8.7177133,115.1809417
+5245263121,"Borneo ""8""",restaurant,indonesian,,,,,,-8.6728344,115.1599243
+5246343621,Persmap Cafe,cafe,,,,,,,-8.720513,115.1751043
+5246520810,Samboga,restaurant,,,,,,,-8.7444694,115.1794044
+5246520811,Jak resto,restaurant,,,,,,,-8.7078237,115.18407
+5246521310,The roots,restaurant,,,,,,,-8.6812732,115.1645758
+5246521313,Noni,restaurant,,,,,,,-8.6538176,115.1623374
+5246521396,Mandai,restaurant,,,,,,,-8.745032,115.1623526
+5246521397,Bakmi naga,restaurant,,,,,,,-8.7450332,115.1625462
+5246521447,Black eye,restaurant,,,,,,,-8.708799,115.1838385
+5246521449,RM Pondok Duo,restaurant,,,,,,,-8.6814484,115.1643973
+5246521462,My Kopi-O,restaurant,,,,,,,-8.745038,115.1620409
+5246521831,Pizza Hut,restaurant,pizza,,,,,,-8.7447172,115.1621457
+5246557431,Bebek goreng harissa,restaurant,indonesian,,,,,,-8.7443693,115.162116
+5246557433,House of beans,restaurant,,,,,,,-8.7451541,115.1639234
+5251365921,Warung Jowo Suroboyo Pak Ndut,restaurant,indonesian,,,,,,-8.7206527,115.176783
+5251924322,best warung ever,restaurant,indonesian,Jl. Pandawa,,,,,-8.7300498,115.1691719
+5269546721,Spice mantraa,restaurant,,,,,,,-8.7289279,115.1685049
+5274469424,Waroeng Dermaga,restaurant,thai,,,,,,-8.6592753,115.1669509
+5275082652,Voltvet,cafe,coffee_shop,Jalan Veteran,,,https://voltvet.business.site/,Mo-Su 11:00-23:00,-8.653568,115.2169837
+5289330532,Mozzarella,restaurant,,,,,,,-8.7025504,115.1646023
+5303623422,Slippery stone,restaurant,,,,,,,-8.6715065,115.1590298
+5320241323,Mr K,restaurant,italian_pizza,,,,,,-8.6453957,115.1523625
+5321237621,D'Bantan warung,restaurant,indonesian;burger;italian_pizza,,,,,,-8.6402269,115.1521418
+5331056221,Warung Jawa Muslim Rena,restaurant,,Jalan Pulau Bungin,,,,,-8.6903306,115.2004501
+5347236326,Warung Kartini,restaurant,,,,,,,-8.7037326,115.1697762
+5352201621,Ma Kao,restaurant,,Jalan Plawa,,+62 36-1732878,,,-8.6910271,115.1683605
+5369761049,Padi Padi Resto,restaurant,,,,,,,-8.7091716,115.1840718
+5372577021,Babi guling,cafe,,,,,,,-8.7075328,115.18158
+5379583721,Chapter Two Restaurant & Bar,restaurant,indonesian;american;barbecue;burger;breakfast;grill;pizza;seafood;steak_house,Jalan Werkudara,,+62 813-3881-2198,https://chapter-two-restaurant-bar.business.site/,Mo-Su 08:00-23:00,-8.6994261,115.1670789
+5379600421,Ling Ling’s,restaurant,indonesian;japanese;korean,Jl. Petitenget,,+62 819-1641-7867,https://linglingsbali.com/,Mo-Su 12:00-01:00,-8.6749676,115.1568757
+5379688624,Warung Souvlaki. GR,restaurant,greek,Jalan Arjuna,,+62 878-6002-0752,https://warung-souvlaki-gr.business.site/,Mo-Su 09:00-23:00,-8.6971794,115.1665241
+5380380421,Salato Pizzeria,restaurant,,Raya Puputan Ruko Bajra Sandi Blok 2,,+62 361 4459982,http://www.salatopizzeria.com,Mo-Su 10:00-22:00,-8.6733119,115.2341652
+5382808622,Rayjin,restaurant,,,,,,,-8.6763831,115.1566256
+5389192625,Pizza Hut Diponegoro,restaurant,,Jalan Diponegoro,,,,,-8.6674297,115.2153343
+5389627136,Peppermint,restaurant,,,,,,,-8.6934878,115.1679226
+5391427021,THAI SPICE,restaurant,,,,,,,-8.6518822,115.1560211
+5397904921,Hibiscus Restaurant,restaurant,indonesian;chicken;burger;asian;breakfast;international;coffee_shop,Jalan Drupadi,,+623619348603,https://hibiscus.id/,Mo-Su 07:30-23:00,-8.6877674,115.1649762
+5403368821,AKAME,restaurant,,,,,,,-8.7241733,115.2147843
+5404897653,Masakan Rumah Etnik,restaurant,indonesian;italian;grill;seafood;pasta;local;coffee_shop;chinese,Jalan Dewi Sri,,+62 818-585-058,,Mo-Su 09:00-23:00,-8.7059553,115.1775998
+5405096721,Limas Warung,restaurant,indonesian;international;asian,,,,,Mo-Su 07:00-23:00,-8.6581108,115.1729701
+5405230521,The Alleyway,cafe,,,,,,,-8.6664125,115.2386148
+5407075221,Sammy’s Restaurant and Cafe,restaurant,,Jalan Padma Utara,,,,Mo-Su 09:00-01:00,-8.7016208,115.1665347
+5408873721,Mamma Maurici,restaurant,italian_pizza,Jalan Padma,,,,,-8.7063345,115.1678438
+5408874521,Da Maria,restaurant,,Jl. Petitenget,,,https://damariabali.com/,,-8.6720153,115.1626366
+5414089021,Espress coffee house,cafe,,,,,,,-8.7074476,115.1782492
+5417560921,Street Boi - Kerobokan Kelod,restaurant,vietnamese;burger,Jl. Petitenget,,+62 812-3676-8665,https://www.streetboibali.com/,Mo-Su 12:00-24:00,-8.6809542,115.1526066
+5417894100,Cosmic diner,restaurant,,,,,,,-8.7050022,115.2462393
+5425609837,Beach Bowl Bali,cafe,,,,,,,-8.7127431,115.169462
+5428131721,Pecopeco Sushi,restaurant,sushi,,,,,Mo-Su 09:00-21:00,-8.6730485,115.2422767
+5428153721,Tortillas & burgers,cafe,indonesian,,,,,,-8.6717487,115.2312295
+5444082523,Cheap food,cafe,,,,,,,-8.7177814,115.1789861
+5456507221,Depot Ayam Kremes - cheap food,restaurant,,,,,,,-8.7223654,115.1764403
+5468071921,Warung Aneka Rasa Java,restaurant,,,,,,,-8.6839933,115.1617792
+5490142524,Warung Makan Ma'pinah,restaurant,indonesian,,,,,,-8.7128555,115.1848355
+5495436813,Tous les Jours,cafe,,,,,,,-8.7449084,115.1621215
+5505189232,Mamma Mia,restaurant,,,,,,,-8.7114105,115.1726734
+5525494524,Pantarei,restaurant,,,,,,,-8.6949653,115.1683096
+5527157321,Black House Burgers,restaurant,burger,Jalan Benesari,,,,,-8.7169843,115.1724062
+5533946937,Pantarei,restaurant,,,,,,,-8.6949247,115.1682144
+5537744024,Bali Black Stump Restaurant,restaurant,,,,,,,-8.720022,115.1736183
+5539334122,Hello Bowls,restaurant,,,,,,,-8.720312,115.1742354
+5541466921,Warung Jawa Prasmanan,restaurant,indonesian,,,,,,-8.6726443,115.2219775
+5542492824,Mykonos Restoran & Bar,restaurant,,,,,,,-8.6839637,115.1582761
+5544539622,Warung Pizza & Pasta,restaurant,indonesian;italian_pizza;international,Puputan 1,,+62 812-3880-9369,,Mo-Su 10:00-22:00,-8.6729148,115.2362982
+5546566421,Tasty Vegan,restaurant,,,,,,,-8.7188757,115.1736748
+5547406222,Mén Gabrug - Fresh Lak Lak From The Oven,restaurant,indonesian,Jalan Drupadi,,+62 819-3305-0992,,Mo-Sa 09:00-18:00,-8.662321,115.2331617
+5583815122,Malo’s,restaurant,bavarian;barbecue;breakfast;burger;diner;fish;german;grill;hot_dog;indonesian;international;italian_pizza;pasta;pizza;sausage;steak_house,"Jalan Nakula 9 Legian - Kaja, Bali",,,,,-8.6970936,115.1700543
+5592219323,Xich Lo Warung,restaurant,,Jalan Pengubengan,,,,Mo-Su 10:00-22:00,-8.6628521,115.1683289
+5593447822,"Chopstick and noodles, wonderful local food, cheap",restaurant,,,,,,,-8.7319239,115.1683989
+5593449121,Chopstick and noodles,restaurant,indonesian;local,Jalan Tamansari,,,,,-8.7319133,115.168425
+5596298821,Shihas,cafe,,,,,,24/7,-8.6885802,115.171007
+5596299021,Watercross,cafe,,,,,,,-8.6730178,115.1502516
+5598054021,Vietnamese Minnie Warung,cafe,vietnamese;indonesian,Jalan Kartika Plaza,,+6287763149277,,Mo-Su 08:00-01:00,-8.7341255,115.1673704
+5599510923,Starbucks,cafe,coffee_shop,,,,,,-8.7440165,115.1637823
+5613739272,kembali bumbak,restaurant,,,,,,,-8.6517926,115.1563182
+5615110422,Atlas Kitchen and Coffee,cafe,asian,Jl. Petitenget Gr. Kecapi,,+623619346581,https://www.facebook.com/atlasbali/,Mo-Su 11:00-22:00,-8.6767222,115.1564205
+5618871621,The Balcony Restaurant Bali,restaurant,,"Jl. Bene Sari 16, Legian 80361, Kuta - Bali",,+623614754087,,,-8.7125086,115.170467
+5619930822,Le Moulin french crêperie,restaurant,savory_pancakes;crepe;french;pancake,,,,,Mo-Su 08:00-23:00,-8.6739394,115.164937
+5621047724,Bali guling,restaurant,,,,,,,-8.7100486,115.1768479
+5631587721,"Warung ""Sederhana""",restaurant,,,,,,,-8.6670202,115.2385768
+5633917424,Foam Coffee,cafe,,,,,,,-8.6658505,115.2377393
+5636508122,Rou Coffee,cafe,chinese;japanese,"Jalan Umalas 2 Klecung, Gg Pandawa",,+62 817-9744-578,,Mo-Sa 08:00-19:00,-8.6665286,115.1537494
+5647169522,Warunk Upnormal,restaurant,,,,,,,-8.6727164,115.2221353
+5647170221,Pondog moro Seneng,restaurant,,,,,,,-8.6733603,115.1813993
+5647171621,Coffeefellas,cafe,,,,,,,-8.6720394,115.1572385
+5652867822,Sekitei sushi,restaurant,japanese,,,,,,-8.6493645,115.1624239
+5655280321,Kok Tong Bali,cafe,indonesian,,,,,,-8.7312076,115.1789131
+5655316265,Ayam betutu,restaurant,,,,,,,-8.7436478,115.1637835
+5655316269,Singgalang jaya,restaurant,indonesian,,,,,,-8.7441379,115.1636505
+5655316295,Padang,restaurant,indonesian,,,,,,-8.744282,115.1644367
+5655316521,Nasi pedas watisan,restaurant,indonesian,,,,,,-8.7439099,115.1637704
+5655316523,Qtalk,restaurant,,,,,,,-8.7441025,115.163768
+5660040523,Eco Cafe Bali,cafe,,,,,,,-8.6517119,115.1572534
+5676966224,Sate Babi Bawah Pohon,restaurant,indonesian,,,,,,-8.7018339,115.1751742
+5678695622,Coffee Cartel,cafe,breakfast;coffee_shop,,,,,Mo-Su 07:30-18:00,-8.6763093,115.1581256
+5678754921,Ms. Crackles,restaurant,indonesian,Jalan Bypass Gatot Subroto,,,,Mo-Su 11:00-22:00,-8.6362149,115.2165182
+5688260330,food court,cafe,,,,,,,-8.6806226,115.164645
+5692547823,WOKMIE,restaurant,,,,,,,-8.7275073,115.1696512
+5701086421,Coffenoon,restaurant,indonesian;american,Jl. Mataram,,+62 36-1758095,,Mo-Su 09:00-23:00,-8.7142683,115.1763521
+5709831323,Kunti II,restaurant,sushi,,,+62 361 765934,https://kunti-ii.business.site/,Mo-Su 11:00-23:00,-8.7121764,115.1724879
+5753420121,Nebula Cafe,cafe,,,,,,,-8.6764428,115.1586746
+5768484453,Warung,restaurant,,,,,,,-8.6677874,115.1651589
+5787703354,Warung,restaurant,,,,,,,-8.6719941,115.1572478
+5791234670,Blaster,cafe,,,,,,,-8.6846347,115.2304827
+5805648953,Toolbox,restaurant,indonesian;breakfast,,,,,,-8.6748813,115.1567667
+5820603894,Gochi,restaurant,indonesian,,,,,,-8.722325,115.1743827
+5837593985,Warung VIKA - Home Made Food,restaurant,,"Jalan Taman Sari 100, Kerebokan,, Badung, Bali, Indonesia Kerobokan Kelod, Bali, Kabupaten Badung, Bali 80000",,+62 813-1609-9988,https://m.facebook.com/WarungVikaBali/,Mo-Su 12:00-17:00,-8.6712146,115.1770005
+5841425385,7 Tori Samurai,restaurant,japanese;ramen;noodles;asian,,,,,,-8.6976378,115.1764857
+5841425685,Warung Tirta,restaurant,,,,,,,-8.6991388,115.1766511
+5841513685,Gong Cafe,restaurant,,,,,,,-8.6043388,115.1714234
+5875084085,Indo Kitchen,restaurant,,,,,,,-8.712475,115.1713007
+5880242486,Warung - cheap and good food,restaurant,,,,,,,-8.6707644,115.1794317
+5928289485,Hank‘s Pizza & Liquor,restaurant,pizza;pasta,,,,http://www.hankspizza.co,,-8.6845105,115.1569349
+5929145685,Nick‘s -est. 2016-,restaurant,burger;american,,,,,,-8.6839838,115.1666415
+5941613985,Bumbak coffee,restaurant,,,,,,,-8.6610494,115.1525913
+5999760685,Teras Pantai,restaurant,indonesian,Jalan Pantai Kuta,,+6287881652828,,,-8.7223586,115.1741396
+6018603485,DKM Dapoer Krismanika,restaurant,indonesian,,,,,,-8.6466524,115.1512355
+6027134485,Warung Kampung,restaurant,indonesian,,,,,,-8.7090576,115.1690796
+6038363385,International Relax Cafe Shisha Lounge,restaurant,ice_cream;grill;crepe;asian;coffee_shop;beef_bowl;pasta;russian;pancake;pizza;chicken;curry;italian_pizza;fish;oriental;seafood;chinese;indonesian;italian,Jalan Poppies 2,,+623614726802,,Mo-Su 11:00-01:00,-8.7171055,115.1715341
+6052692793,Mie Obonk,restaurant,,,,,,,-8.7253005,115.1753544
+6060244586,MO:YA,cafe,,,,,,,-8.651719,115.1574261
+6060263785,Happy Buddha,cafe,burger;breakfast;italian;local;pasta,,,,,,-8.6544077,115.153405
+6063439583,Ayam Betutu Khas Gilimanuk Bali,restaurant,,,,+623618661367,,,-8.7120565,115.1802
+6067685767,Flapjaks house of pancakes and homemade gelatos,restaurant,,,,,,,-8.7194357,115.1692722
+6070317187,Lucky's Warung,restaurant,,,,,,,-8.7118085,115.1745317
+6073580988,Café Romano (pizzeria),restaurant,,,,,,,-8.7123518,115.1730578
+6077607217,D'Umah,restaurant,indonesian;italian_pizza;chicken;fine_dining;burger;diner;steak_house;asian,,,+6287860335598,,Mo-Sa 11:00-00:00,-8.6665073,115.2066939
+6078055086,Warung Muslim Podo Moro,restaurant,,,,,,,-8.7317869,115.1679001
+6084230963,lantern,restaurant,,,,,,,-8.6716265,115.1624828
+6112170686,O Matcha,cafe,,,,,,,-8.6731486,115.2440494
+6120449088,Coffee Corner,cafe,,,,,,,-8.7085892,115.1694471
+6120457185,MayDay,restaurant,,,,,,,-8.7093659,115.1700067
+6123169688,FUJI RAMEN,restaurant,,,,,,,-8.6762115,115.218427
+6123493885,Teras Pantai,restaurant,indonesian,,,,,,-8.7224655,115.1742677
+6137388486,Smiles Warung,restaurant,russian;indonesian,,,,,,-8.7116484,115.1743035
+6142433989,Tubes,cafe,american;austrian,,,,,,-8.7177876,115.1733062
+6155836586,Anita’s Warung,restaurant,,,,,,,-8.6282982,115.1516778
+6164658986,Gloria Jean's,cafe,coffee_shop,,,,,,-8.7242256,115.1715225
+6164990707,Cafe Organic,cafe,,,,,,,-8.6705026,115.1610351
+6190600306,MyWarung,cafe,,,,,www.mywarung.com,,-8.6714767,115.1598174
+6190600365,Soho 24 hour diner,restaurant,,,,,,,-8.684063,115.1605393
+6202710926,Starbucks,cafe,coffee_shop,Sunset Road,,,https://www.starbucks.com/,,-8.691741,115.1730565
+6205204586,Nextdoor Coffee and Kitchen,restaurant,,,,+62 811-3856-868,,Mo-Su 07:00-22:00,-8.6352506,115.15862
+6206938885,Alleyway Shack,cafe,,,,,,,-8.7023572,115.1680499
+6207096785,Honey Bees Local Eatery,cafe,,,,,,,-8.6733428,115.1581645
+6209378573,Popcorn cafe,cafe,,,,,,,-8.7006831,115.1783833
+6221786286,Yuan hotpot,cafe,,,,,,,-8.7337658,115.1677736
+6232213185,Warung nusantara,restaurant,,,,,,,-8.7172182,115.1719425
+6241311285,Doppio cafe,cafe,,,,,,,-8.7312098,115.1679217
+6273813485,Bagoes,cafe,,,,,,Mo-Su 11:00-21:00,-8.6777596,115.2378766
+6285572295,Soto Dobrak,restaurant,,,,,,,-8.7399184,115.1671269
+6297359186,Nero Bali,restaurant,,,,,,,-8.7112734,115.1728381
+6301160502,Ulun Carik BBQ,restaurant,indonesian;fish;chicken;local;seafood,Jalan Pattimura,,,,Mo-Su 12:00-22:00,-8.7118853,115.174304
+6302628985,Atithi Indian restaurant,restaurant,,,,,,,-8.710759,115.1705717
+6302635685,Warung nasi Bu.linga,restaurant,indonesian,,,,,,-8.7110979,115.1713156
+6303370493,Warung Coconut Sari,restaurant,indonesian;local;beef_bowl;fish_and_chips,,,,,Mo-Su 08:00-23:00,-8.7115823,115.1742637
+6303385990,Local Food Plaza,restaurant,indonesian;international;local;russian;fish_and_chips;asian;burger;breakfast,,,,,Mo-Su 08:00-23:00,-8.7117273,115.1743532
+6307792985,Warung Sapo Lais,cafe,indonesian,,,,,Mo-Su 08:30-22:00,-8.709637,115.1738424
+6317807685,Maybe Tony,restaurant,,,,,,Mo-Su 08:00-22:00,-8.717659,115.1744439
+6325006695,Cheap local food,restaurant,,,,,,,-8.7318761,115.1681726
+6343210685,Martabak Pada Rasan,restaurant,indonesian,Jl. Kubu Anyar,,,,Mo-Su 18:00-12:00,-8.7327303,115.1708584
+6371335841,Flavours Restaurant,restaurant,,,,,,,-8.7356787,115.1778301
+6375386685,Smiles warung,cafe,,,,,,,-8.711542,115.1742675
+6405748985,Kedai Mie Vegetarian,restaurant,,,,,,Mo-Su 09:00-21:00,-8.6801719,115.2069483
+6423210388,Segara Seafood & Indonesian Restaurant,restaurant,,,,,http://www.segarafreshseafood.com/,,-8.7272143,115.1674513
+6424807085,The Burger Cafe,restaurant,burger;breakfast,,,,,,-8.7098862,115.172742
+6427961285,Nopi's warung,restaurant,,,,,,,-8.7110285,115.1712996
+6430471285,Roti za 20 koła,restaurant,,,,,,,-8.7232766,115.176723
+6440031886,Viva kitchen,restaurant,chinese,Jalan Beraban,,+62 813-3818-8242,,Mo-Sa 10:00-22:00,-8.68026,115.162812
+6460935086,Halal Kitchen Bali,restaurant,indonesian;barbecue;asian,,,,,,-8.6744717,115.164995
+6461865487,Warung Jawa Mak Mu,restaurant,indonesian;local,,,,,,-8.7378803,115.1656547
+6469133185,Jungle Toppings Cafe,cafe,,,,,,,-8.6827195,115.156841
+6508675385,Fatbowl,restaurant,asian,Jalan Padma,,,,,-8.7062141,115.1679646
+6515658485,warung DUA,cafe,indonesian,,,,,,-8.6671144,115.1569294
+6517507186,Starbucks,cafe,coffee_shop,,,,,,-8.7372577,115.1759584
+6520963290,Warung Bambu Lulu,restaurant,fish;indonesian,,,,,,-8.7058582,115.2455758
+6535068786,Warung Pande Vegetarian,restaurant,indonesian;local,Jl. Raya Babakan Canggu,,+62 361 8445480,https://warung-pande-vegetarian.business.site/,Mo-Su 09:00-21:00,-8.6289894,115.1513277
+6538726685,ITUITU,restaurant,asian;breakfast;burger;coffee_shop;american;indonesian;pasta;pizza,Jalan Padma Utara,,+62 36-1751566,,Mo-Su 07:00-23:00,-8.7045861,115.1682364
+6542008285,Gado Gado Place,restaurant,,,,,,,-8.6783604,115.1806967
+6544020786,Warung Ole,restaurant,,Jalan Mahendradatta,,+62 36-1490458,,,-8.6702152,115.1914165
+6566223385,Wayne & Friend,restaurant,indonesian,,,,,,-8.7021187,115.167081
+6567654185,Olala Bistronomy,restaurant,french,Jl bumbak,,+62 812-3669-6727,https://olalabali.com,,-8.6573935,115.1530583
+6571784785,Hello Coffee and Juice,cafe,,,,,,Mo-Su 07:00-20:00,-8.7126237,115.1697111
+6571784787,The Pad on Bene,restaurant,,Jalan Lebak Bene,,,,,-8.7109869,115.171044
+6572923486,Vegan Bali,restaurant,,Gang Bedugul,,+62 878 6231 3363,,Mo-Su 08:30-21:30,-8.720858,115.1744568
+6577819846,Umah VG,restaurant,indonesian;chinese;western,Menuh,,+62 813 3788 2828,http://umahvegan.com/,"Mo-Sa 09:00-19:00, Su 12:00-18:00",-8.6541777,115.2238857
+6577819947,Bodhi Leaf Eatery,restaurant,indonesian;asian;juice;dessert,Made Putra,,+62 361 254307,https://bodhi-leaf-eatery.business.site/,Mo-Sa 07:00-17:00; Su 07:00-15:00,-8.6614519,115.2197069
+6577830780,Veggie Corner,restaurant,,Jalan Gunung Agung,,+62 899 9600 077,,,-8.65398,115.2056952
+6577839954,Merci VEGAN,restaurant,,Sutomo Gang XI,,+62 819 9903 3391,https://merci-vegan.business.site/,Mo-Su 06:00-21:00,-8.6525822,115.2103996
+6577871829,warung kasih vegan,restaurant,indonesian,Setiabudi,,+62 813 3801 2076,https://warung-kasih-vegan-vegetarian.business.site/,Mo-Su 06:00-16:00,-8.6518687,115.2086385
+6577871830,Ijo Daun,restaurant,,Setiabudi,,+62 851 0272 5610,https://ijo-daun-vegetarian-vegan.business.site/,Mo-Sa 07:30-18:00,-8.6522869,115.2087874
+6577894681,Mai3 Cafegan,restaurant,asian;indonesian,Jalan Raya Tuban,,+62 361 757458,,Mo-Sa 10:00-21:30,-8.7409946,115.1788572
+6578002657,Tasty Vegan,restaurant,,Jl. Raya Basangkasa,,+62 8155709473,,Mo-Su 09:00-21:30,-8.6858232,115.1665268
+6578020517,LN Fortunate Coffee,restaurant,,Jalan Gunung Soputan,,,,"Mo-Sa 11:00-21:30, Su 10:30-21:30",-8.6865672,115.183306
+6578423087,Terminal,cafe,,,,,,,-8.6769149,115.154788
+6579555485,Gourmet Cafe Petitenget,cafe,,,,,,,-8.6768786,115.1540616
+6583119588,Shinta Warung,restaurant,,,,,,Mo-Su 17:00-22:00,-8.7300047,115.1691358
+6594803685,Daunpisang,restaurant,indonesian;local,,,,,,-8.7381178,115.1701488
+6605401493,Clean Canteen Bali Petitenget,restaurant,,,,,,,-8.6810111,115.1526069
+6611731388,The Legian Mas,restaurant,,,,,,,-8.7099211,115.1702391
+6612543286,Felicity Espresso,cafe,,,,,,,-8.6969453,115.1654086
+6612559686,Legion Corner,restaurant,indonesian;pizza;burger;pasta;asian;mexican;international;breakfast,Jalan Arjuna,,,,,-8.696954,115.1647374
+6615525385,Gosha Kitchen & Patisserie,restaurant,indonesian;pizza;noodles;pasta,Jalan Bypass Gatot Subroto,,,,,-8.6361437,115.1920793
+6631198485,Chicken Run,restaurant,,,,,,,-8.6895922,115.1722027
+6639332585,NOM smoothie bowl,restaurant,,,,,,,-8.7175256,115.1739341
+6639726985,Cloud Cakes,restaurant,coffee_shop,,,,,,-8.6697236,115.2150757
+6711455185,Made Warung,restaurant,,,,,,,-8.7446558,115.1623657
+6718195595,Warung Ipang,restaurant,,,,,,,-8.7029747,115.1761916
+6720230823,白沙灣海鮮樓,restaurant,seafood,,,,,,-8.7421113,115.1816835
+6725563489,Al Khaimah,restaurant,arab,,,,,,-8.7215823,115.1938677
+6737637385,Jepun cafe,restaurant,pizza,Gg. Kingkong,,,,Mo-Su 12:00-22:00,-8.7310871,115.1711913
+6751650285,The Deck (upstairs),restaurant,indonesian;thai;international;breakfast;coffee_shop;local,,,,,,-8.6827812,115.1571629
+6766438726,t.one coffee and roastery,restaurant,,Jalan Tunjung I,,,,Mo-Su 07:00-20:00,-8.6733668,115.1736356
+6769026766,Mr Husky,restaurant,asian,,,,,Mo-Su 10:00-22:00,-8.675401,115.1724351
+6772084943,Litut + Porky Duck,restaurant,,Jalan Mertanadi,,+62 859 3614 1027,,Mo-Su 11:00-24:00,-8.6772506,115.1674218
+6773841220,Bhineka Jaya (Kopi Bali),cafe,,Jalan Gajah Mada,,,https://www.kopibali.com/,,-8.6553875,115.2134224
+6776048176,Latitude Cafe,cafe,,Jalan Mertanadi,,,,Mo-Su 09:00-17:00,-8.6777106,115.1677409
+6780459185,warung Labda,cafe,,Sunset Road,,,,Mo-Su 10:00-23:30,-8.6884654,115.171386
+6780817185,kedai kopi kulo,cafe,,Jalan Dewi Sri,,,,,-8.7047384,115.177036
+6787905286,oucha ramen,cafe,japanese,Jalan Dewi Sri,,,,Mo-Su 18:00-23:00,-8.7073808,115.1782266
+6796096086,EXPAT. Roasters Petitenget,cafe,coffee_shop;cake;breakfast,Jl. Petitenget,,,https://www.expatroasters.com/,,-8.6718032,115.1606198
+6833662286,Cafe Chakra Bali,cafe,,Jl. Pengubugan,,+62 361 4480895,,,-8.6499819,115.1661195
+6840595885,"D`Warung, halal, Nasi Campur, Mee Goreng etc.",restaurant,indonesian;tea;regional;fish;asian;malaysian;coffee_shop;local,,,,,,-8.7346494,115.1666473
+6844056603,Warung Kalaka,restaurant,indonesian;chicken;diner;grill;local;noodles;regional;sausage,,,,,,-8.7077318,115.1749254
+6844652286,Warung Yama - Yama,restaurant,indonesian,,,,,,-8.7097199,115.1753691
+6849020386,Warung Jawa cantik,restaurant,,,,,,,-8.6909244,115.1687845
+6849029085,Padang jaya,restaurant,,,,,,,-8.6910387,115.1677472
+6853193527,Umalas Breakfast Club,cafe,coffee_shop;burger;asian;chicken;international,"Jl. Dukuh Indah, Kerobokan Kelod, Kec. Kuta Utara",,+62811-3881-288,,Mo-Sa 07:00-15:00,-8.6659429,115.1597949
+6853230485,Umalas Breakfast Club,cafe,,,,,,,-8.6660414,115.1598217
+6856922085,Warung Smile Baby,restaurant,,,,,,,-8.7190778,115.1738609
+6860132483,Gloria Jean's,cafe,coffee_shop,,,,,,-8.7323536,115.1676401
+6860134239,Brasserie Restaurant,restaurant,,,,,,,-8.7303153,115.1680507
+6860137670,Beras Morah,restaurant,,,,,,,-8.7290292,115.1688075
+6860177185,Tony Roma's,restaurant,barbecue,,,,,,-8.7179127,115.1691683
+6860188185,D’Warung,restaurant,,Jalan Kartika Plaza,,,,,-8.7346732,115.1666361
+6866681062,CoCo Fresh Tea & Juice,cafe,bubble_tea,,,+62 361 775 211,https://www.cocobistrobalirestaurant.com/,,-8.7281183,115.1672601
+6870875891,Febri's Hotel Restaurant,restaurant,,,,,,,-8.7326556,115.1675729
+6871039785,Kynd,cafe,,,,,,,-8.6746843,115.1567902
+6875248572,Hova,cafe,,,,,,,-8.6734911,115.164746
+6875248994,Rebenga,restaurant,,,,,,,-8.6753306,115.1647802
+6878807385,Mie Ayam & Bakso,restaurant,local;indonesian;noodles,,,,,,-8.7257559,115.1743189
+6880947385,THREE coffee,cafe,,,,,,,-8.7451315,115.1627117
+6899529385,Paperboy,restaurant,,,,,,Mo-Su 08:00-11:00,-8.7171551,115.1723189
+6902585586,Melly88 Warung,restaurant,,,,,,,-8.7236245,115.1734746
+6911960886,Minang Permai,restaurant,,,,,,,-8.6757085,115.2064776
+6912531386,Warung Segara,restaurant,,Jalan Wana Segara,,+62 813 3826 4052,,,-8.7370699,115.1662654
+6923551689,Warung Muslim,restaurant,,,,,,,-8.6802128,115.2098418
+6940335586,Nebula,restaurant,,Jl. Popies II,,,,,-8.7180829,115.1701178
+6961598786,NOAA social dining,restaurant,asian;american;italian_pizza;thai;sushi;seafood;chinese;burger,,,,,,-8.6771433,115.1542453
+6970801685,Ikimura steak house,restaurant,asian;american;chicken;grill;steak_house;fish,,,,,,-8.7119493,115.1675333
+7000724885,Waroeng Tan Poh,cafe,,,,,,,-8.7109441,115.1720245
+7010969408,Babi Guling,restaurant,,,,,,,-8.7126875,115.1763786
+7013557848,Warung Pack Liek,restaurant,,,,,,,-8.742389,115.1681451
+7020881663,Dong Dong,restaurant,,,,,,,-8.7104069,115.1815733
+7020945183,Chinese Food&Swike,restaurant,,,,,,,-8.7060803,115.1777303
+7026177685,Teatro Gastrotheque,restaurant,,,,,,,-8.6843755,115.1570436
+7026196785,Bikini Restaurant,restaurant,,,,,,,-8.6828551,115.1575085
+7041294986,Warung Zaenah,restaurant,,Jalan Kediri,,+62 851-0189-1177,,,-8.7382775,115.1704297
+7041294989,Putra Jombang,restaurant,,Jalan Kediri,,,,,-8.7377225,115.1693977
+7041294990,Palapa Masakan Padang,restaurant,,,,,,,-8.7374763,115.1694516
+7041294992,Bunfo Kanduang Masakan Padang,restaurant,,,,,,,-8.7373735,115.1677893
+7041294993,Cute Piggys,restaurant,chinese,,,,,,-8.737101,115.1675222
+7041298786,Minang Saiyo Masakan Padang,restaurant,,,,,,,-8.7384276,115.1709222
+7041300387,Masakan Khas Jawa,restaurant,,Jalan Kediri,,,,,-8.7374241,115.1692845
+7041300585,Warung Sunda,restaurant,,,,,,,-8.7373373,115.167462
+7061899687,Black House Burgers,restaurant,,,,,,,-8.7122947,115.177519
+7063430687,CUPein Kedai Kopi,cafe,indonesian,,,,,,-8.7098605,115.1751862
+7074090285,Warung Kidemang,restaurant,indonesian,,,,,,-8.7395155,115.1663069
+7074106086,Pedas Abis,restaurant,indonesian,,,,,Mo-Su 10:00-22:00,-8.684325,115.230693
+7104329385,Baku Dapa Bali,restaurant,,,,,,,-8.6796692,115.1676749
+7106244659,Bakso Lapangan Tembak Senayan,restaurant,,,,,,,-8.7440955,115.1640267
+7106244663,Tokeru Cafe,cafe,,,,,,,-8.7010522,115.1792861
+7106579685,Little Ingka,cafe,,,,,,,-8.6726511,115.159714
+7106583445,White Diamond,restaurant,,,,,,,-8.7135196,115.1738066
+7111678711,Kopi Kangen,cafe,coffee_shop,,,,,,-8.7194838,115.1802978
+7114551086,Balibola,restaurant,,,,,,,-8.6732477,115.1585923
+7120676481,Starbucks,cafe,,,,,,,-8.6367243,115.2147187
+7127883385,66 Corner,restaurant,,Jalan Arjuna,,,https://www.66corner.com/,,-8.696942,115.1643957
+7128372485,Tagine Bali,restaurant,arab;moroccan,Jalan Mertanadi,,+6287763148040,https://www.taginebali.com/,Mo-Sa 17:00-23:00,-8.678964,115.1675598
+7130878785,Warung Verte,cafe,indonesian;chinese,,,,,,-8.6202096,115.1544057
+7137427085,Eva,restaurant,,,,,,,-8.6781757,115.1997295
+7138480286,Lovster Seminyak,cafe,seafood,Jl. Petitenget,,,https://www.lovster.id/,24/7,-8.6744531,115.1568107
+7144980185,Ling Ling’s,restaurant,asian,Jl. Petitenget,,,https://linglingsbali.com/,Mo-Su 12:00-01:00,-8.6740049,115.1574472
+7146452485,Bamboo Cokner,restaurant,,,,,,,-8.721042,115.1735258
+7153105386,Taman Sari,restaurant,,,,,,,-8.7173108,115.1735211
+7158222885,Sendok cafe corner,restaurant,international,Jl. Popies II,,+62 36-1755563,,,-8.7173073,115.1722892
+7190978685,Jungla,cafe,tea;burger;asian;international;coffee_shop,,,,,Mo-Su 09:00-00:00,-8.7165545,115.1723996
+7210786485,remix juice,cafe,,,,,,,-8.6677261,115.1603828
+7223735485,Kopi ZEEN - est. 2017,cafe,indonesian;international,,,,,,-8.7117616,115.1798229
+7242488890,Brazilian Aussie BBQ @ Seminyak,restaurant,,,,,,,-8.6801786,115.1636201
+7252214058,One Bean Coffee House,cafe,,,,,,Mo-Su 08:00-18:00,-8.6871032,115.1700123
+7252215580,The Farmer Brews Coffee,cafe,,Jl. Drupadi,,,,Mo-Su 07:00-17:00,-8.6897866,115.1630646
+7252221844,Moana Fish Eatery,restaurant,,,,,,Mo-Su 11:00-23:00,-8.6868952,115.1672341
+7263650285,Balibo.la,restaurant,,Jl. Petitenget,,,,Mo-Su 08:00-18:00,-8.6745117,115.1568272
+7281510985,Warung Lingga Murti,cafe,,,,,,Mo-Su 07:00-22:00,-8.7209057,115.1757216
+7469455085,munchies capcay 25k wifi,cafe,,,,,,,-8.7187568,115.1729007
+7475672485,Warung Mesari 25k,cafe,,,,,,Mo-Sa 09:00-20:00,-8.7164198,115.1723014
+7562419085,Warung Eropa,restaurant,,,,,,,-8.6737608,115.1574722
+7573379492,tian tian wang,restaurant,,,,,,,-8.7384486,115.1726884
+7573384388,warung bu syifa,restaurant,,,,,,,-8.7378711,115.1699086
+7603596627,The Forge Gastropub - Bali,restaurant,western,"Jalan Petitenget,",,+62 819-0998-8885,https://forgebali.com,Mo-Su 09:00-21:00,-8.6750831,115.156921
+7704155288,Basil kitchen,restaurant,,,,,,,-8.6789744,115.1603349
+8002149785,Warung Smile,restaurant,indonesian,Jalan Raya Canggu,,+62 857 9246 7880,,Mo-Sa 12:00-22:00,-8.6392056,115.1507395
+8263379919,Warung Kenken,restaurant,,Jalan Tukad Pule,,,,,-8.6766297,115.2300062
+8308216904,All Black Koffie,cafe,,,,,,,-8.7249841,115.1767628
+8410214410,The Night Market Cafe,restaurant,regional;international;coffee_shop,Jalan Majapahit,,+62 81 805 687 299,,Mo-Su 09:00-21:00,-8.7111291,115.1770846
+8413476817,Bread Basket,restaurant,,,,,,,-8.6743412,115.1673679
+8563260419,Wr. Pica,restaurant,american;local,Jalan Gunung Soputan I,,,,,-8.6858877,115.1878364
+8563308817,Kopi Kita,cafe,coffee_shop,Jalan Mahendradatta Selatan I,,,,,-8.6849337,115.1890077
+8646954118,Sea Salt,cafe,,,,,,,-8.6809114,115.1505934
+8696859317,Gabah - Indonesien Restaurant,restaurant,,,,,,,-8.7249085,115.1716301
+8751649342,Rise and Shine Cafe (Bumbak),cafe,cafe;breakfast;coffee;brunch,Jalan Bumbak Dauh,,+62 812-3906-6905,https://www.instagram.com/riseandshine_bali,Mo-Su 07:00-15:00,-8.6518971,115.1563639
+8835095960,IKRA,restaurant,,Jl.Bumbak,,+62 811-3941-0018,,Mo-Su 12:00-22:00,-8.6526674,115.1551971
+8835095961,Sinamon Bali,cafe,bakery,Jl.Bumbak,,+62 821-4444-2354,,Mo-Su 07:30-22:00,-8.652223,115.1553673
+8835726517,Farza Shake,cafe,,Jalan Raya Pemogan,,,,,-8.7093607,115.1993753
+8883372017,My Cocotte,restaurant,french,JL. Umalas,,,,,-8.6680588,115.1641638
+8947597618,Warung Bobink,restaurant,,Jalan Noja Saraswati,,,,,-8.6322452,115.2329784
+8947606867,Cendal Cendol,restaurant,,Jalan Noja Saraswati,,,,,-8.6323977,115.2330562
+8998513417,Wr. Malaysia,restaurant,indian;local,Jalan Dewi Sri,,,,,-8.7088554,115.179151
+9157288411,Gatsu Kuliner (GAKUL),restaurant,regional;coffee_shop;japanese,Jl. Gatot Subroto Timur,,+6285738038112,,Mo-Su 11:00-23:00,-8.6354821,115.2284026
+9365198117,Usha Cafe&Bakery Canggu,cafe,,,,,,,-8.6563166,115.1526984
+9432625917,Warung Enak,cafe,,,,,,,-8.6972565,115.1720218
+9728570417,Brunch Club Bali,restaurant,breakfast;pancake,Jalan Raya Legian,,,https://brunchclubbali.com/,Mo-Su 07:00-18:00,-8.7011742,115.169799
+9763801973,Meja Kitchen & Bar Seminyak,restaurant,,,,,,,-8.6842708,115.1605472
+9768852370,Pia Agung - By Pass Ngurah Rai,restaurant,,,,,,,-8.7423904,115.1818621
+9768930145,Lisa Kue Lempuyang Tegal Kertha,restaurant,,,,,,,-8.6645926,115.1977442
+9774037801,Guinness Vaganza Blue Star Cafe,cafe,,,,,,,-8.6967238,115.2336999
+9778830449,Warung Jodoh,restaurant,local;indonesian,,,,,,-8.7210737,115.1763229
+9778830454,Warung Muslim Ibu Isna,restaurant,indonesian;javanese;local,Jln. Kubu Anyar,,+62 857 3926 3121,,09:00-23:00,-8.7268015,115.1743884
+9789625150,The Coffee Library Pantai Double Six,cafe,,,,,,,-8.6956377,115.1604421
+9802626352,Jala Coffee,cafe,coffee_shop;chicken;daerahregional;fish_and_chips,Tukad Unda,,+62 813-3802-3000,,Mo-Su 12:00-22:30,-8.6751665,115.2321437
+9831275121,Dimsum Chika,cafe,,Jalan Umalas,,,,Mo-Su 15:00-23:00,-8.66793,115.1642702
+9831311217,Coffee Moodest and Kitchen,cafe,,Jalan Tegal Cupak,,,,Mo-Su 07:00-21:00,-8.6521674,115.1608533
+9832095617,Lighthouse,restaurant,,Raya Kerobokan,,,,Mo-Sa 08:00-20:30,-8.6627729,115.1671365
+9861831718,Bonito,restaurant,,,,,,,-8.6564944,115.152554
+9865363517,7am Bakery,cafe,,,,,,,-8.6563855,115.1523859
+9894771917,TGC Cafe,cafe,,,,,,,-8.6559193,115.1518936
+9900844805,Crypto Cafe Bali,cafe,coffee_shop,Sunset Road,,,,Mo-Su 07:00-22:00,-8.6868593,115.1706695
+9910909666,The Restaurant At The Legian,restaurant,,,,,,,-8.6844221,115.1535528
+9911419148,Ristorante Italia - Hotel Kumala Pantai Legian,restaurant,,,,,,,-8.6991945,115.1631177
+9912828995,Chai Ba - Seminyak,restaurant,indian,,,,,,-8.6846221,115.1668319
+9913652917,Just Kitchen,restaurant,,,,,,,-8.6634391,115.1528057
+9913753617,Fabriqua,restaurant,,,,,,,-8.6564517,115.1527113
+9914163947,Warung Bunana - Sunset Road,restaurant,,,,,,,-8.6821651,115.165608
+9916739727,Bakso Urat Dan Mie Ayam Yang Tau - Padangsambian Klod,restaurant,,,,,,,-8.6793405,115.1805134
+9916786200,Paletas Wey - Seminyak Village,restaurant,,,,,,,-8.6832032,115.1571757
+9916981661,DMZ Cafetaria,cafe,,,,,,,-8.6993312,115.1766864
+9918258753,Mya Kitchen & Cocktails - Dash Hotel,restaurant,,,,,,,-8.6794065,115.1537162
+9918269610,WBS Padangsambian Kelod,restaurant,,,,,,,-8.6795302,115.1794286
+9918291172,Supplier Kelapa Muda,restaurant,,,,,,,-8.6796117,115.1782551
+9918510879,Warung Putra,restaurant,,,,,,,-8.6797581,115.1795818
+9918521685,Nasi Ayam Betutu Sunari - Padangsambian Klod,restaurant,,,,,,,-8.6797702,115.1804631
+9918544572,Warung Ayuk,restaurant,,,,,,,-8.6797719,115.1801297
+9918546088,Warung Wilda Rasa - Padangsambian Kelod,restaurant,,,,,,,-8.6797947,115.1801847
+9918650052,Wr. Pisang Aroma - Padangsambian Klod,restaurant,,,,,,,-8.6799137,115.1799546
+9918650576,Noaa Social Dinning Petitenget - Kerobokan Kelod,restaurant,,,,,,,-8.6798485,115.1538194
+9923665490,RM Doa Bundo,restaurant,,,,,,,-8.6801146,115.1781896
+9923681144,Mrs Sippy Bali Badung,restaurant,,,,,,,-8.6801162,115.1533901
+9923698233,Warung Bambu - Seminyak,restaurant,,,,,,,-8.6835054,115.1709983
+9923864084,Dots Cafe,cafe,,,,,,,-8.6867018,115.1672547
+9923891427,Cheers - Legian,restaurant,,,,,,,-8.6994395,115.16952
+9924167586,Warung Bu Desta,restaurant,,,,,,,-8.6803359,115.1629589
+9924838929,Sariguna Warung,restaurant,,,,,,,-8.6890678,115.174057
+9925939279,Warung Tanah Bumbu - Mertanadi,restaurant,,,,,,,-8.6803291,115.1673224
+9925942426,JFC - Padangsambian Klod,restaurant,,,,,,,-8.6802327,115.1781311
+9925948895,Casa Blanca - Seminyak,restaurant,,,,,,,-8.6857288,115.1566786
+9926190886,A fung Baso Sapi Asli,restaurant,,,,,,,-8.7439577,115.1638891
+9926191770,Pizza Hut,restaurant,pizza,,,,,,-8.7441601,115.163879
+9926366468,Revolver Espresso Seminyak,cafe,,,,,,,-8.6841294,115.1579713
+9928307165,Warung Kawan - Kerobokan Kelod,restaurant,,,,,,,-8.6802413,115.1629838
+9928449487,Warung Ebooh Beraban,restaurant,,,,,,,-8.6804609,115.1629457
+9928493952,Barokah Ice Buah - Padangsambian Klod,restaurant,,,,,,,-8.6805382,115.1778568
+9928526409,Seasalt Seminyak,restaurant,,,,,,,-8.6808273,115.1515915
+9928557428,Zia Tina,restaurant,,,,,,,-8.6806552,115.1526223
+9928770532,Warung Bali,restaurant,,,,,,,-8.6807293,115.1629759
+9928817749,Warung Bu Bagus - Kerobokan Klod,restaurant,,,,,,,-8.6807934,115.1530032
+9928925644,Shiro Sushi Bar,restaurant,,,,,,,-8.6808835,115.1601016
+9928974469,Ta Man Seminyak - Kerobokan Kelod,restaurant,,,,,,,-8.6809545,115.1525724
+9929033579,Kasava Resto & Bar - Seminyak,restaurant,,,,,,,-8.6819325,115.1581817
+9929038290,Shiro Sushi Sake - Kerobokan Kelod,restaurant,,,,,,,-8.6809137,115.160103
+9929086829,Bintang Elephant Mina Warung - Seminyak,restaurant,,,,,,,-8.6896084,115.1618635
+9929296352,Bintang Ramen Factory and Cafe Seminyak,restaurant,,,,,,,-8.6944915,115.1680276
+9930479511,Rujak Bu Opi - Kerobokan Kelod,restaurant,,,,,,,-8.6812543,115.1644065
+9930480189,Warung Smashed Box,restaurant,,,,,,,-8.681282,115.1643034
+9930504923,Lumpia Beef & Rice Box 21 - Kerobokan,restaurant,,,,,,,-8.6812839,115.1644027
+9930504971,Warung Two Spicy - Kerobokan Kelod,restaurant,,,,,,,-8.6813122,115.164315
+9930533722,Kiln Bar & Eating House - Petitenget,restaurant,,,,,,,-8.6812281,115.152616
+9930674497,Street Kings Bali - Kerobokan Kelod,restaurant,,,,,,,-8.6810515,115.1526009
+9931082693,ACK Resto,restaurant,,,,,,,-8.6990175,115.1718651
+9931105090,Mano Seaside,restaurant,,,,,,,-8.6812804,115.1526547
+9931208829,Warung Bu Putu - Gunung Tangkuban Perahu,restaurant,,,,,,,-8.6811096,115.1777726
+9931221006,Cycling Hub Cafe - Kerobokan Kelod,cafe,,,,,,,-8.6812923,115.1603324
+9931336363,Es Teler Cihuy 3,restaurant,,,,,,,-8.6813351,115.1643822
