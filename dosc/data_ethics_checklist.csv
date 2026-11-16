@@ -1,0 +1,11 @@
+no,check,status,catatan
+1,Sumber data legal & terbuka,Ya,"Data dari OpenStreetMap (OSM), sumber terbuka, lisensi ODbL"
+2,Tidak ada data pribadi,Ya,"Hanya nama tempat, alamat umum, koordinat. Tidak ada nama orang, NIK, no HP pribadi"
+3,Tidak ada scraping akun pribadi / login,Ya,"Menggunakan API Overpass OSM, tanpa login, tanpa scraping Instagram/WA"
+4,Atribusi sumber dicantumkan,Ya,"Sumber: OpenStreetMap contributors, disebutkan di README dan provenance.json"
+5,Lisensi dihormati,Ya,"Lisensi ODbL - data boleh dipakai, dibagikan, dengan atribusi"
+6,Tidak ada data sensitif / anak / kesehatan,Ya,"Data hanya cafe & restaurant di Denpasar, data publik"
+7,Data tidak dimanipulasi,Ya,"Data apa adanya dari OSM, hanya dibersihkan duplikat & nama kosong"
+8,Privasi lokasi dihormati,Ya,"Lokasi adalah tempat usaha publik, bukan rumah pribadi"
+9,Penggunaan untuk akademik,Ya,"Hanya untuk Tugas 1 RTM1, tidak untuk komersial"
+10,File provenance dilampirkan,Ya,"provenance.json menjelaskan asal, tanggal, dan cara ambil data"

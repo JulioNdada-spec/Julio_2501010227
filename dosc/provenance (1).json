@@ -1,0 +1,32 @@
+{
+  "nama_file": "osm_20261116.csv",
+  "pengumpul": "Maryo Julio Rusbugowa Ndada",
+  "nim": "2501010227",
+  "email": "mariojuliondada@gmail.com",
+  "sumber": "OpenStreetMap via Overpass API",
+  "url_api": "https://overpass-api.de/api/interpreter",
+  "tanggal_akuisisi": "2026-11-16",
+  "waktu_akuisisi_wita": "2026-11-16",
+  "lisensi": "Open Database License (ODbL) - https://opendatacommons.org/licenses/odbl/",
+  "atribusi": "\u00a9 OpenStreetMap contributors",
+  "jumlah_record": 977,
+  "jumlah_kolom": 11,
+  "kolom": [
+    "osm_id",
+    "name",
+    "amenity",
+    "cuisine",
+    "addr_street",
+    "addr_suburb",
+    "phone",
+    "website",
+    "opening_hours",
+    "latitude",
+    "longitude"
+  ],
+  "area": "Denpasar, Bali, Indonesia",
+  "bbox": "-8.75,115.15,-8.60,115.28",
+  "filter": "amenity=cafe OR amenity=restaurant",
+  "user_agent": "RTM1-2501010227 (mariojuliondada@gmail.com) - Tugas Kuliah INSTIKI",
+  "md5": "a422a938f65553335084e3a436b0253f"
+}
